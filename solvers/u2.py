@@ -394,7 +394,7 @@ Yatay hareket sabit hızlıdır: R = vx \* t
 # ---------------------------------------------------------------- S15  (şekil sorunlu)
 ekle(no=15, zorluk="orta",
      params={"h": P(3, "m", 1, 5, 1)},
-     metin="{h} m yükseklikteki bir rampadan 30° açıyla fırlatılan bir motosiklet 2 sn sonra yere düşüyor. Rampadan ayrılma hızı (v_A) nedir? (g = 10 m/sn²)",
+     metin="{h} m yükseklikteki bir rampadan 30° açıyla fırlatılan bir motosiklet 2 sn sonra yere düşüyor. Rampadan ayrılma sürati (v_A) nedir? (g = 10 m/sn²)",
      hesap=lambda h: dict(c=20 - h, v=(20 - h)),
           cevap=("v", "m/s", 1),
      celdirici=lambda v: [(20 - v["h"]) / math.sqrt(3),                                          # sin30 yerine cos30 kullanıldı
@@ -422,7 +422,7 @@ y = y₀ + (v_A \* sinα) \* t - ½gt²
 P16 = lambda: {"a": P(1, "m/s²", 1, 3, 1), "v0": P(6, "m/s", 4, 8, 2), "T": P(4, "s", 2, 5, 1), "r": P(20, "m", 10, 50, 10)}
 
 ekle(no=16, zorluk="orta", params=P16(),
-     metin="P noktasında hızı {v0}m/sn olan bir buz patencisi, hızını sabit {a} m/sn² ivmeyle artırıyor. {T} saniye sonra ivmenin teğetsel bileşeni ne olur?",
+     metin="P noktasında sürati {v0}m/sn olan bir buz patencisi, süratini sabit {a} m/sn² ivmeyle artırıyor. {T} saniye sonra ivmenin teğetsel bileşeni ne olur?",
      hesap=lambda a, v0, T, r: dict(at=a),
           cevap=("at", "m/s²", 1),
      celdirici=lambda v: [(v["v0"] + v["a"] * v["T"])**2 / v["r"],                         # teğetsel ivme yerine normal ivme hesaplandı
@@ -434,7 +434,7 @@ ekle(no=16, zorluk="orta", params=P16(),
      cozum=r"""Teğetsel ivme (at), hızın büyüklüğündeki değişim oranıdır. Soruda bu değerin hareket boyunca sabit ve {a} m/sn² olduğu doğrudan verilmiştir. Dolayısıyla {T} saniye sonra da teğetsel ivme **{at} m/sn²**'dir.""")
 
 ekle(no=17, zorluk="orta", params=P16(),
-     metin="P noktasında hızı {v0}m/sn olan bir buz patencisi, hızını sabit {a} m/sn² ivmeyle artırıyor. {T} saniye sonra ivmenin normal bileşeni (an) nedir? (r={r}m)",
+     metin="P noktasında sürati {v0}m/sn olan bir buz patencisi, süratini sabit {a} m/sn² ivmeyle artırıyor. {T} saniye sonra ivmenin normal bileşeni (an) nedir? (r={r}m)",
      hesap=lambda a, v0, T, r: dict(v=v0 + a * T, an=(v0 + a * T) ** 2 / r, v2=(v0 + a * T) ** 2),
           cevap=("an", "m/s²", 1),
      celdirici=lambda v: [v["v0"]**2 / v["r"],                                                 # son hız yerine ilk hız v0 kullanıldı
@@ -455,7 +455,7 @@ ekle(no=17, zorluk="orta", params=P16(),
 P18 = lambda: {"at": P(2, "m/s²", 1, 4, 1), "an": P(1.27, "m/s²", 1, 2, 0.5)}
 
 ekle(no=18, zorluk="orta", params=P18(),
-     metin="Parabolik bir yörüngede kayan bir kayakçının hızı 6 m/sn ve hızının artış oranı (teğetsel ivme) {at} m/sn²'dir. O andaki normal ivmesi {an} m/sn² ise, bileşke ivmenin büyüklüğü nedir?",
+     metin="Parabolik bir yörüngede kayan bir kayakçının sürati 6 m/sn ve süratinin artış oranı (teğetsel ivme) {at} m/sn²'dir. O andaki normal ivmesi {an} m/sn² ise, bileşke ivmenin büyüklüğü nedir?",
      hesap=lambda at, an: dict(a=math.hypot(at, an), at2=at * at, an2=round(an * an, 2), s=at * at + round(an * an, 2),
                                ar=math.sqrt(at * at + round(an * an, 2))),
           cevap=("ar", "m/s²", 2),
@@ -485,7 +485,7 @@ def _kayakci(at, an):
 
 
 ekle(no=19, zorluk="zor", params=P18(),
-     metin="Parabolik bir yörüngede kayan bir kayakçının hızının artış oranı (teğetsel ivme) {at} m/sn², normal ivmesi {an} m/sn²'dir. Bileşke ivme vektörünün x ekseni ile yaptığı açı nedir? (Kayakçının bulunduğu noktadaki eğim açısı 45°'dir.)",
+     metin="Parabolik bir yörüngede kayan bir kayakçının süratinin artış oranı (teğetsel ivme) {at} m/sn², normal ivmesi {an} m/sn²'dir. Bileşke ivme vektörünün x ekseni ile yaptığı açı nedir? (Kayakçının bulunduğu noktadaki eğim açısı 45°'dir.)",
      hesap=_kayakci,      cevap=("phi", "°", 1),
      celdirici=lambda v: [(v["phi"] + 45) % 360,                                                # açıya eğim eklendi
                           (v["phi"] - 45) % 360,                                                # eğim açısı çıkarıldı
@@ -521,7 +521,7 @@ ekle(no=19, zorluk="zor", params=P18(),
 # ---------------------------------------------------------------- S20-S21
 ekle(no=20, zorluk="orta",
      params={"r": P(10, "m", 5, 20, 5), "w": P(0.1, "rad/s", 0.1, 0.5, 0.1, liste=(0.1, 0.2, 0.5))},
-     metin="r={r}m (sabit) yarıçaplı bir yörüngede dönen bir sepetin açısal konumu θ = {w}t rad'dır. t=1sn'de sepetin bileşke hızı nedir?",
+     metin="r={r}m (sabit) yarıçaplı bir yörüngede dönen bir sepetin açısal konumu θ = {w}t rad'dır. t=1sn'de sepetin bileşke hızının büyüklüğü (sürati) nedir?",
      hesap=lambda r, w: dict(vt=r * w, v=r * w),
           cevap=("v", "m/s", 1),
      celdirici=lambda v: [v["r"] * v["w"]**2,                                                 # normal ivme hesaplandı
@@ -543,7 +543,7 @@ ekle(no=20, zorluk="orta",
 
 ekle(no=21, zorluk="orta",
      params={"k1": P(100, "mm", 50, 200, 50), "k2": P(1, "", 1, 3, 1)},
-     metin="Bir mekanizmada B bileziğinin radyal konumu r = {k1}t² (mm) ve açısal konumu θ = {k2s}t³ (rad) olarak verilmiştir. t=1 saniye anında bileziğin bileşke hızı nedir?",
+     metin="Bir mekanizmada B bileziğinin radyal konumu r = {k1}t² (mm) ve açısal konumu θ = {k2s}t³ (rad) olarak verilmiştir. t=1 saniye anında bileziğin bileşke hızının büyüklüğü (sürati) nedir?",
      hesap=lambda k1, k2: dict(k2s="" if k2 == 1 else k2, rd=2 * k1, wd=3 * k2, vth=k1 * 3 * k2, v=math.hypot(2 * k1, k1 * 3 * k2),
                                rd2=(2 * k1) ** 2, vth2=(k1 * 3 * k2) ** 2, s=(2 * k1) ** 2 + (k1 * 3 * k2) ** 2),
           cevap=("v", "mm/s", 2),
@@ -574,7 +574,7 @@ ekle(no=21, zorluk="orta",
 # ---------------------------------------------------------------- S22-S25  (makaralar)
 ekle(no=22, zorluk="orta",
      params={"vM": P(10, "m/s", 6, 15, 3)},
-     metin="Şekildeki makara sisteminde, motor (M) halatı {vM} m/s sabit hızla kendine doğru çekmektedir. Silindir A'nın hızı nedir ve hangi yöndedir?",
+     metin="Şekildeki makara sisteminde, motor (M) halatı {vM} m/s sabit hızla kendine doğru çekmektedir. Silindir A'nın sürati nedir?",
      hesap=lambda vM: dict(vA=vM / 3),
           cevap=("vA", "m/s", 2),
      celdirici=lambda v: [3.0 * v["vM"],                                                         # 3 ile çarpıldı
@@ -593,7 +593,7 @@ ekle(no=22, zorluk="orta",
 3.  **Hızı Hesaplama:** Motor ipi kendine doğru çektiği için s_M artar, yani v_M = +{vM} m/s.\
     0 = 3v_A + {vM}\
     v_A = -{vM}/3 ≈ -{vA:.2f} m/sn\
-    Negatif işaret, s_A mesafesinin azaldığını, yani silindirin **yukarı doğru** hareket ettiğini gösterir. Hızı **{vA:.2f} m/sn**'dir.""")
+    Negatif işaret, s_A mesafesinin azaldığını, yani silindirin **yukarı doğru** hareket ettiğini gösterir. Sürati **{vA:.2f} m/sn**'dir.""")
 
 ekle(no=23, zorluk="zor",
      params={"k": P(0.2, "m/s³", 0.1, 0.4, 0.1), "h": P(4, "m", 2, 8, 2)},
@@ -748,7 +748,7 @@ def _s29(v, x0):
 
 ekle(no=29, zorluk="zor",
      params={"v": P(4, "m/s", 2, 6, 2), "x0": P(4, "m", 1, 9, 1, liste=(1, 4, 9))},
-     metin="y² = 4x parabolik yolu üzerinde hareket eden bir parçacığın hızı sabit {v} m/s'dir. Parçacık x={x0} m konumundayken ivmesinin büyüklüğü nedir?",
+     metin="y² = 4x parabolik yolu üzerinde hareket eden bir parçacığın sürati sabit {v} m/s'dir. Parçacık x={x0} m konumundayken ivmesinin büyüklüğü nedir?",
      hesap=_s29,      cevap=("a", "m/s²", 3),
      celdirici=lambda v: [v["v"] / v["rho"],                                                   # v² yerine v alındı
                           float(v["rho"]),                                                       # ivme yerine eğrilik yarıçapı verildi
@@ -756,7 +756,7 @@ ekle(no=29, zorluk="zor",
                           v["v"]**2 * v["rho"] / 100,                                         # bölme yerine çarpma yapıldı
                           v["a"] / 2],                                                           # 2'ye bölündü
      beklenen={"a": 0.716},
-     cozum=r"""Sabit hız, teğetsel ivmenin sıfır olduğu (at = 0) anlamına gelir. İvme, sadece normal bileşenden oluşur: a = an = v²/ρ.
+     cozum=r"""Sabit sürat, teğetsel ivmenin sıfır olduğu (at = 0) anlamına gelir. İvme, sadece normal bileşenden oluşur: a = an = v²/ρ.
 
 1.  **Eğrilik Yarıçapını (ρ) Bulma:**
 

@@ -157,9 +157,10 @@ Verilenler:
   T = {m} \* {ag:.2f}\
   T = {T:,.0f} N""")
 
-ekle(no=7, zorluk="orta",
+ekle(no=7, zorluk="orta", md_kontrol=False,   # md: "eğim 30°" kullanılmayan veri olduğu için metinden çıkarıldı
+     sekil={"dosya": "S7_1.png", "etiketler": [("an", [106, 34, 130, 52], lambda an: "")]},   # şekildeki 30° etiketi silinir
      params={"rho": P(200, "m", 100, 400, 100), "an": P(4.25, "m/s²", 2, 6, 1)},
-     metin="Dikey düzlemde hareket eden 50 kg'lık bir merminin yörüngesinin eğrilik yarıçapı {rho} m'dir. Şekildeki konumda (eğim 30°) mermiye etki eden normal ivme {an} m/s² olduğuna göre, merminin hızı nedir?",
+     metin="Dikey düzlemde hareket eden 50 kg'lık bir merminin yörüngesinin eğrilik yarıçapı {rho} m'dir. Şekildeki konumda mermiye etki eden normal ivme {an} m/s² olduğuna göre, merminin sürati nedir?",
      hesap=lambda rho, an: dict(v2=an * rho, v=math.sqrt(an * rho)),
           cevap=("v", "m/s", 2),
      celdirici=lambda v: [v["an"] * v["rho"],                                                 # karekök alınmadı (v² hesaplandı)
@@ -174,7 +175,7 @@ Verilenler:
 - Normal ivme (a_n) = {an} m/s²
 
 - Eğrilik yarıçapı (ρ) = {rho} m\
-  Formülden hızı (v) çekelim:\
+  Formülden sürati (v) çekelim:\
   v² = a_n \* ρ\
   v = √(a_n \* ρ)\
   v = √({an} \* {rho})\
@@ -201,7 +202,7 @@ a_t = {at:.3f} m/s² (Negatif işaret hızın azaldığını gösterir)""")
 
 ekle(no=9, zorluk="kolay",
      params={"rho": P(100, "m", 50, 200, 50), "v": P(20, "m/s", 10, 30, 5)},
-     metin="{rho} m yarıçaplı dairesel bir pistte hareket eden bir aracın hızı {v} m/s'dir. Aracın merkezcil (normal) ivmesi nedir?",
+     metin="{rho} m yarıçaplı dairesel, eğimli bir pistte hareket eden bir aracın sürati {v} m/s'dir. Aracın merkezcil (normal) ivmesi nedir?",
      hesap=lambda rho, v: dict(v2=v * v, an=v * v / rho),
           cevap=("an", "m/s²", 1),
      celdirici=lambda v: [v["v"] / v["rho"],                                                  # hızın karesi alınmadı (v/rho)
@@ -213,7 +214,7 @@ ekle(no=9, zorluk="kolay",
      cozum=r"""Merkezcil ivme (normal ivme) formülü a_n = v²/ρ kullanılır.\
 Verilenler:
 
-- Hız (v) = {v} m/s
+- Sürat (v) = {v} m/s
 
 - Yarıçap (ρ) = {rho} m\
   a_n = ({v})² / {rho}\
@@ -250,7 +251,7 @@ Verilenler:
 
 ekle(no=11, zorluk="orta", md_kontrol=False,
      params={"r": P(100, "m", 50, 200, 50)},
-     metin="Bir araba dikey bir tepenin zirvesinden (yarıçap r = {r} m) geçmektedir. Arabanın yolla temasını kaybetmemesi için sahip olabileceği maksimum hız nedir? (g = 9.81 m/s²)",
+     metin="Bir araba dikey bir tepenin zirvesinden (yarıçap r = {r} m) geçmektedir. Arabanın yolla temasını kaybetmemesi için sahip olabileceği maksimum sürat nedir? (g = 9.81 m/s²)",
      hesap=lambda r: dict(gr=g * r, v=math.sqrt(g * r)),
           cevap=("v", "m/s", 2),
      celdirici=lambda v: [9.81 * v["r"],                                                      # karekök alınmadı (v² hesaplandı)
@@ -366,7 +367,7 @@ Verilenler:
 
 ekle(no=17, zorluk="orta",
      params={"m": P(0.2, "kg", 0.1, 0.5, 0.1), "v": P(0.5, "m/s", 0.5, 2, 0.5)},
-     metin="{m} kg'lık bir blok, pürüzsüz bir koni yüzeyinde 0.120 m'lik bir yarıçapta {v} m/s'lik sabit bir hızla dönmektedir. Bloğa etki eden net merkezcil kuvvet ne kadardır?",
+     metin="{m} kg'lık bir blok, pürüzsüz bir koni yüzeyinde 0.120 m'lik bir yarıçapta {v} m/s'lik sabit bir süratle dönmektedir. Bloğa etki eden net merkezcil kuvvet ne kadardır?",
      hesap=lambda m, v: dict(v2=v * v, an=v * v / 0.12, F=m * v * v / 0.12),
           cevap=("F", "N", 3),
      celdirici=lambda v: [v["v"]**2 / 0.12,                                                   # kütle unutuldu (ivme verildi)
@@ -390,7 +391,7 @@ Verilenler:
 
 ekle(no=18, zorluk="kolay",
      params={"v": P(97, "m/s", 60, 120, 10), "r": P(3000, "m", 2000, 5000, 1000)},
-     metin="5000 kg'lık bir uçak, {r} m yarıçaplı yatay bir dairesel yörüngede {v} m/s'lik sabit bir hızla uçmaktadır. Uçağın maruz kaldığı merkezcil ivme nedir?",
+     metin="5000 kg'lık bir uçak, {r} m yarıçaplı yatay bir dairesel yörüngede {v} m/s'lik sabit bir süratle uçmaktadır. Uçağın maruz kaldığı merkezcil ivme nedir?",
      hesap=lambda v, r: dict(v2=v * v, an=v * v / r),
           cevap=("an", "m/s²", 2),
      celdirici=lambda v: [v["v"] / v["r"],                                                    # hızın karesi alınmadı (v/r)

@@ -200,20 +200,21 @@ v_A − (−{k:g}v_A) = {vr} ⇒ {r3:g}v_A = {vr} ⇒ v_A = {vA:.2f} m/s, v_B = 
 
 ekle(no=12, zorluk="orta",
      params={"mm": P(0.1, "kg", 0.05, 0.2, 0.05), "v": P(900, "m/s", 600, 1000, 100)},
-     metin="300 kg'lık bir araba üzerindeki 75 kg'lık bir adam, {mm} kg'lık bir mermiyi arabaya göre {v} m/s hızla yatay olarak ateşliyor. Ateşleme sonrası arabanın hızı ne olur? (Başlangıçta duruyorlar, sürtünmeyi ihmal ediniz).",
-     hesap=lambda mm, v: dict(mv=mm * v, mt=375 + mm, va=-mm * v / (375 + mm)),
-          cevap=("va", "m/s", 2),
+     metin="300 kg'lık bir araba üzerindeki 75 kg'lık bir adam, {mm} kg'lık bir mermiyi arabaya göre {v} m/s hızla yatay olarak ateşliyor. Ateşleme sonrası arabanın sürati ne olur? (Başlangıçta duruyorlar, sürtünmeyi ihmal ediniz).",
+     hesap=lambda mm, v: dict(mv=mm * v, mt=375 + mm, va=mm * v / (375 + mm)),
+          cevap=("va", "m/s", 3),
      celdirici=lambda v: [-v["mm"] * v["v"] / 300,                                            # adamın kütlesi (75 kg) unutuldu
                           abs(v["va"]),                                                        # geri tepme yönü pozitif alındı
                           2 * v["va"],                                                         # 2 ile çarpıldı
                           0.5 * v["va"],                                                       # 1/2 çarpanı eklendi
                           1.5 * v["va"]],                                                      # 1.5 ile çarpıldı
-     beklenen={"va": -0.24},
+     beklenen={"va": 0.24},
      cozum=r"""Sistem momentumu korunur (başlangıçta 0).\
 0 = m_mermi·v_mermi + (m_adam + m_araba)·v_araba\
 v_mermi = v_araba + {v}\
 0 = {mm}(v_araba + {v}) + 375v_araba\
-{mt:g}v_araba = −{mv:g} ⇒ v_araba ≈ {va:.2f} m/s""")
+{mt:g}v_araba = −{mv:g} ⇒ v_araba = −{va:.3f} m/s\
+Araba mermiye ters yönde hareket eder; sürati {va:.3f} m/s'dir.""")
 
 ekle(no=13, zorluk="orta",
      params={"ms": P(70, "kg", 50, 90, 10), "mb": P(8, "kg", 4, 12, 2), "vr": P(2, "m/s", 1, 4, 1)},
@@ -303,7 +304,7 @@ v = v₀ + a·t = 0 + {a:.2f} · {t} = {v:.2f} m/s""")
 ekle(no=18, zorluk="orta", md_kontrol=False,  # md: r_{1}, r_{2} alt simgeleri
     
      params={"v1": P(5, "m/s", 3, 8, 1), "r1": P(1.5, "m", 1, 2, 0.5), "r2": P(1.2, "m", 0.6, 1.2, 0.3)},
-     metin="Şekildeki sistemde elastik ip ucundaki 3 kg'lık disk yatay düzlemde dönmektedir. r₁ = {r1} m'de teğetsel hız {v1} m/s ise, ip kısaltılıp r₂ = {r2} m olduğunda diskin hızı ne olur?",
+     metin="Şekildeki sistemde elastik ip ucundaki 3 kg'lık disk yatay düzlemde dönmektedir. r₁ = {r1} m'de teğetsel sürat {v1} m/s ise, ip kısaltılıp r₂ = {r2} m olduğunda diskin sürati ne olur?",
      kisit=lambda v1, r1, r2: r2 < r1,
      hesap=lambda v1, r1, r2: dict(H=3 * v1 * r1, c=3 * r2, v2=v1 * r1 / r2),
           cevap=("v2", "m/s", 2),
@@ -353,7 +354,7 @@ v_son = {v:.4g} m/s""")
 
 ekle(no=21, zorluk="orta",
      params={"v1": P(5, "m/s", 3, 7, 1), "r1": P(0.5, "m", 0.5, 1, 0.25), "r2": P(0.25, "m", 0.25, 0.5, 0.25)},
-     metin="2 kg'lık top, {r1} m yarıçaplı dairesel yolda {v1} m/s hızla dönmektedir. Topa teğetsel bir kuvvet etki etmemektedir. İp çekilerek yarıçap {r2} m'ye düşürülürse yeni hız ne olur?",
+     metin="2 kg'lık top, {r1} m yarıçaplı dairesel yolda {v1} m/s süratle dönmektedir. Topa teğetsel bir kuvvet etki etmemektedir. İp çekilerek yarıçap {r2} m'ye düşürülürse yeni sürat ne olur?",
      kisit=lambda v1, r1, r2: r2 < r1,
      hesap=lambda v1, r1, r2: dict(H=v1 * r1, v2=v1 * r1 / r2),
           cevap=("v2", "m/s", 1),
@@ -382,7 +383,7 @@ def _s22(v0):
 
 ekle(no=22, zorluk="zor",
      params={"v0": P(20, "m/s", 10, 30, 10)},
-     metin="4 kg'lık bir mermi yatayda {v0} m/s hızla giderken havada patlayarak iki parçaya ayrılıyor: A parçası (1.5 kg) ve B parçası (2.5 kg). A parçası yatayla 45 derece yukarı sola doğru B parçası yatayla 30 derece aşağı sağa doğru fırlıyor. A parçasının hızını bulunuz.",
+     metin="4 kg'lık bir mermi yatayda {v0} m/s hızla giderken havada patlayarak iki parçaya ayrılıyor: A parçası (1.5 kg) ve B parçası (2.5 kg). A parçası yatayla 45 derece yukarı sola doğru B parçası yatayla 30 derece aşağı sağa doğru fırlıyor. A parçasının süratini bulunuz.",
      hesap=_s22,
           cevap=("vA", "m/s", 0),
      celdirici=lambda v: [4 * v["v0"] / (2.5 - 1.5),                                          # açı bileşenleri unutuldu
@@ -418,7 +419,7 @@ Restitüsyon: {e} = (v_p2 − v_c2)/{vc1:.2f} ⇒ v_c2 = v_p2 − {ev:.3f} …(2
 
 ekle(no=24, zorluk="zor",
      params={"v": P(5, "m/s", 3, 8, 1), "e": P(0.8, "", 0.4, 0.8, 0.2)},
-     metin="0.4 kg'lık A bilardo topu {v} m/s hızla duran B topuna çarpıyor. Çarpışma merkezi değil, eğik çarpışmadır. Çarpışma düzleminin normali ile A'nın geliş doğrultusu arasında 30 derece açı vardır. e = {e}. B topunun çarpışma sonrası hızı nedir? (B topu normal doğrultusunda hareket eder).",
+     metin="0.4 kg'lık A bilardo topu {v} m/s hızla duran B topuna çarpıyor. Çarpışma merkezi değil, eğik çarpışmadır. Çarpışma düzleminin normali ile A'nın geliş doğrultusu arasında 30 derece açı vardır. e = {e}. B topunun çarpışma sonrası hızının büyüklüğü (sürati) nedir? (B topu normal doğrultusunda hareket eder).",
      hesap=lambda v, e: dict(vt=v * s30, vn=v * c30, vB=(1 + e) / 2 * v * c30, vAn=(1 - e) / 2 * v * c30),
           cevap=("vB", "m/s", 3),
      celdirici=lambda v: [(1 + v["e"]) / 2 * v["v"] * math.sin(math.radians(30)),            # cos30 yerine sin30 kullanıldı
@@ -435,7 +436,7 @@ Restitüsyon (normal eksen): {e} = (v_Bn2 − v_An2)/({v} cos 30°)\
 
 ekle(no=25, zorluk="zor",
      params={"m": P(3, "kg", 2, 6, 1), "v": P(20, "m/s", 10, 30, 5), "rho": P(10, "m", 5, 15, 5)},
-     metin="{m} kg kütleli bir top eğri bir yoldan aşağı kayarak B noktasına geliyor. B noktasındaki eğrilik yarıçapı {rho} m'dir. Topun hızı {v} m/s ise ve B noktası eğrilik merkezine (O) göre yatay konumdaysa, topun O noktasına göre açısal momentumu nedir?",
+     metin="{m} kg kütleli bir top eğri bir yoldan aşağı kayarak B noktasına geliyor. B noktasındaki eğrilik yarıçapı {rho} m'dir. Topun sürati {v} m/s ise ve B noktası eğrilik merkezine (O) göre yatay konumdaysa, topun O noktasına göre açısal momentumu nedir?",
      hesap=lambda m, v, rho: dict(H=m * v * rho),
           cevap=("H", "kg·m²/s", 0),
      celdirici=lambda v: [float(v["v"] * v["rho"]),                                           # kütle m unutuldu (v·r)
@@ -449,7 +450,7 @@ H_O = {m} kg · {v} m/s · {rho} m = {H:g} kg·m²/s""")
 
 ekle(no=26, zorluk="zor",
      params={"v1": P(10, "m/s", 5, 15, 5), "r1": P(3, "m", 3, 6, 1), "r2": P(2, "m", 1, 2, 1)},
-     metin="Bir lunapark aracı r = {r1} m yarıçaplı yörüngede {v1} m/s hızla dönerken, kol içeri doğru çekilerek yarıçap saniyede 1 m/s hızla kısaltılıyor. Yarıçap {r2} m olduğunda aracın teğetsel hızı ne olur?",
+     metin="Bir lunapark aracı r = {r1} m yarıçaplı yörüngede {v1} m/s süratle dönerken, kol içeri doğru çekilerek yarıçap saniyede 1 m/s hızla kısaltılıyor. Yarıçap {r2} m olduğunda aracın teğetsel sürati ne olur?",
      kisit=lambda v1, r1, r2: r2 < r1,
      hesap=lambda v1, r1, r2: dict(H=v1 * r1, v2=v1 * r1 / r2),
           cevap=("v2", "m/s", 1),

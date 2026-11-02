@@ -118,7 +118,7 @@ S[-1].hesap = lambda a, b: (lambda v: dict(v=v, v2=v * v, T=0.5 * a * v * v, Tkj
 
 ekle(no=6, zorluk="orta",
      params={"a": P(70, "kg", 50, 100, 10), "b": P(46, "m", 26, 66, 5)},
-     metin="{a} kg kütleli bir kayakçı, durgun halden kaymaya başlayarak B noktasına ulaşıyor. A ve B noktaları arasındaki dikey yükseklik farkı {b} m olduğuna göre, kayakçının B noktasındaki hızı nedir? (Sürtünme ihmal edilmiştir, g = 9.81 m/s²)",
+     metin="{a} kg kütleli bir kayakçı, durgun halden kaymaya başlayarak B noktasına ulaşıyor. A ve B noktaları arasındaki dikey yükseklik farkı {b} m olduğuna göre, kayakçının B noktasındaki sürati nedir? (Sürtünme ihmal edilmiştir, g = 9.81 m/s²)",
      hesap=lambda a, b: dict(gh2=2 * g * b, v=math.sqrt(2 * g * b)),
           cevap=("v", "m/s", 2),
      celdirici=lambda v: [math.sqrt(9.81 * v["b"]),                                            # kök içindeki 2 çarpanı unutuldu
@@ -295,6 +295,7 @@ ekle(no=15, zorluk="kolay",
                           0.5 * v["a"] * v["s"],                                               # uzamanın karesi alınmadı
                           0.5 * v["Ve"],                                                       # fazladan 1/2 eklendi
                           3 * v["Ve"]],                                                        # 3 ile çarpıldı
+     sekil={"dosya": "S15_1.png", "etiketler": [("c", "240 mm", lambda c: f"{c:g} mm")]},
      beklenen={"Ve": 0.050625},
      cozum=r"""Önce yayın ne kadar uzadığı (s) bulunur.\
 s = Son uzunluk - İlk uzunluk = {c} mm - 200 mm = {dl:g} mm = {s:g} m\
