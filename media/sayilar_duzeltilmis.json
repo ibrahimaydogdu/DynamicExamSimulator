@@ -1,0 +1,7903 @@
+{
+  "Dinamik 2. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "soru_no": 10,
+      "boyut": [
+        372,
+        367
+      ],
+      "sekil_ozeti": "Parabolik yörünge y = x²/10 üzerinde hareket eden parçacık ve 16 m yatay konum koordinatı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 16,
+          "birim": "m",
+          "neden": "Yatay konum koordinatı, hız ve ivme bileşenlerini doğrudan belirler."
+        },
+        {
+          "etiket": "b",
+          "deger": 10,
+          "birim": "",
+          "neden": "Parabolik eğri katsayısı (y = x²/10), türevleri ve eğrilik yarıçapını etkiler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FBF9D9",
+          "yazi_rengi": "#3D3923",
+          "hizalama": "yatay",
+          "gercek_metin": "16 m",
+          "deger": 16.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "ocr_ham_metin": "y = 10",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FEFCDA",
+          "yazi_rengi": "#39381B",
+          "hizalama": "yatay",
+          "gercek_metin": "y = x²/10",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            10,
+            2
+          ]
+        },
+        {
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "ocr_ham_metin": "-6m",
+          "ocr_ham_deger": -6,
+          "arka_plan": "#FFFFE5",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "x²",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            2
+          ]
+        }
+      ]
+    },
+    "S11_1.png": {
+      "soru_no": 11,
+      "boyut": [
+        372,
+        367
+      ],
+      "sekil_ozeti": "Parabolik yörünge y = x²/10 üzerinde hareket eden parçacık ve 16 m yatay konum koordinatı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 16,
+          "birim": "m",
+          "neden": "Yatay konum koordinatı, hız ve ivme bileşenlerini doğrudan belirler."
+        },
+        {
+          "etiket": "b",
+          "deger": 10,
+          "birim": "",
+          "neden": "Parabolik eğri katsayısı (y = x²/10), türevleri ve eğrilik yarıçapını etkiler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FBF9D9",
+          "yazi_rengi": "#3D3923",
+          "hizalama": "yatay",
+          "gercek_metin": "16 m",
+          "deger": 16.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "ocr_ham_metin": "y = 10",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FEFCDA",
+          "yazi_rengi": "#39381B",
+          "hizalama": "yatay",
+          "gercek_metin": "y = x²/10",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            10,
+            2
+          ]
+        },
+        {
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "ocr_ham_metin": "-6m",
+          "ocr_ham_deger": -6,
+          "arka_plan": "#FFFFE5",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "x²",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            2
+          ]
+        }
+      ]
+    },
+    "S12_1.png": {
+      "soru_no": 12,
+      "boyut": [
+        372,
+        367
+      ],
+      "sekil_ozeti": "Parabolik yörünge y = x²/10 üzerinde hareket eden parçacık ve 16 m yatay konum koordinatı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 16,
+          "birim": "m",
+          "neden": "Yatay konum koordinatı, hız ve ivme bileşenlerini doğrudan belirler."
+        },
+        {
+          "etiket": "b",
+          "deger": 10,
+          "birim": "",
+          "neden": "Parabolik eğri katsayısı (y = x²/10), türevleri ve eğrilik yarıçapını etkiler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FBF9D9",
+          "yazi_rengi": "#3D3923",
+          "hizalama": "yatay",
+          "gercek_metin": "16 m",
+          "deger": 16.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "ocr_ham_metin": "y = 10",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FEFCDA",
+          "yazi_rengi": "#39381B",
+          "hizalama": "yatay",
+          "gercek_metin": "y = x²/10",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            10,
+            2
+          ]
+        },
+        {
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "ocr_ham_metin": "-6m",
+          "ocr_ham_deger": -6,
+          "arka_plan": "#FFFFE5",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "x²",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            2
+          ]
+        }
+      ]
+    },
+    "S13_1.png": {
+      "soru_no": 13,
+      "boyut": [
+        507,
+        473
+      ],
+      "sekil_ozeti": "Yatay fırlatılan cismin 6 m düşey düşüşü ve 12 m/s yatay başlangıç hızı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 12,
+          "birim": "m/s",
+          "neden": "Başlangıç yatay fırlatma hızı."
+        },
+        {
+          "etiket": "b",
+          "deger": 6,
+          "birim": "m",
+          "neden": "Düşey düşüş mesafesi, havada kalma süresini belirler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            148,
+            93,
+            215,
+            119
+          ],
+          "ocr_ham_metin": "12 m/s",
+          "ocr_ham_deger": 12,
+          "arka_plan": "#FEFDDA",
+          "yazi_rengi": "#37322F",
+          "hizalama": "yatay",
+          "gercek_metin": "v_A = 12 m/s",
+          "deger": 12.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            356,
+            180,
+            433,
+            217
+          ],
+          "ocr_ham_metin": "8 = v (",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#17130B",
+          "hizalama": "yatay",
+          "gercek_metin": "6 m",
+          "deger": 6.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            42,
+            234,
+            80,
+            256
+          ],
+          "ocr_ham_metin": "6 m",
+          "ocr_ham_deger": 6,
+          "arka_plan": "#FFFEDA",
+          "yazi_rengi": "#373D4F",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yerçekimi ivmesi sembolü a=g"
+        }
+      ]
+    },
+    "S14_1.png": {
+      "soru_no": 14,
+      "boyut": [
+        507,
+        473
+      ],
+      "sekil_ozeti": "Yatay fırlatılan cismin 6 m düşey düşüşü ve 12 m/s yatay başlangıç hızı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 12,
+          "birim": "m/s",
+          "neden": "Başlangıç yatay fırlatma hızı."
+        },
+        {
+          "etiket": "b",
+          "deger": 6,
+          "birim": "m",
+          "neden": "Düşey düşüş mesafesi, havada kalma süresini belirler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            148,
+            93,
+            215,
+            119
+          ],
+          "ocr_ham_metin": "12 m/s",
+          "ocr_ham_deger": 12,
+          "arka_plan": "#FEFDDA",
+          "yazi_rengi": "#37322F",
+          "hizalama": "yatay",
+          "gercek_metin": "v_A = 12 m/s",
+          "deger": 12.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            356,
+            180,
+            433,
+            217
+          ],
+          "ocr_ham_metin": "8 = v (",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#17130B",
+          "hizalama": "yatay",
+          "gercek_metin": "6 m",
+          "deger": 6.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            42,
+            234,
+            80,
+            256
+          ],
+          "ocr_ham_metin": "6 m",
+          "ocr_ham_deger": 6,
+          "arka_plan": "#FFFEDA",
+          "yazi_rengi": "#373D4F",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yerçekimi ivmesi sembolü a=g"
+        }
+      ]
+    },
+    "S15_1.png": {
+      "soru_no": 15,
+      "boyut": [
+        0,
+        0
+      ],
+      "cizim": "solvers/cizimler.py:s15",
+      "sekil_ozeti": "3 m yüksekliğindeki rampadan 30° ile fırlayan motosiklet (şematik, matplotlib).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3,
+          "birim": "m",
+          "neden": "Rampa yüksekliği."
+        }
+      ],
+      "tespitler": []
+    },
+    "S16_1.png": {
+      "soru_no": 16,
+      "boyut": [
+        218,
+        172
+      ],
+      "sekil_ozeti": "Eğimli rampa üzerinde kayan kayakçı şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S17_1.png": {
+      "soru_no": 17,
+      "boyut": [
+        218,
+        172
+      ],
+      "sekil_ozeti": "Eğimli rampa üzerinde kayan kayakçı şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S18_1.png": {
+      "soru_no": 18,
+      "boyut": [
+        463,
+        396
+      ],
+      "sekil_ozeti": "Parabolik tepe y = (1/20)x² üzerinden kayan kayakçı, 5 m tepe yüksekliği ve 10 m yatay mesafesi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 5,
+          "birim": "m",
+          "neden": "A noktasının düşey yüksekliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 10,
+          "birim": "m",
+          "neden": "A noktasının yatay konumu."
+        },
+        {
+          "etiket": "c",
+          "deger": 20,
+          "birim": "",
+          "neden": "Parabol denklem katsayısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            406,
+            9,
+            459,
+            40
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#3E3A36",
+          "hizalama": "yatay",
+          "gercek_metin": "x²",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "sayilar": [
+            2
+          ]
+        },
+        {
+          "kutu": [
+            330,
+            14,
+            386,
+            48
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFEDA",
+          "yazi_rengi": "#403C38",
+          "hizalama": "yatay",
+          "gercek_metin": "y = (1/20)",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "sayilar": [
+            20
+          ]
+        },
+        {
+          "kutu": [
+            405,
+            27,
+            435,
+            51
+          ],
+          "ocr_ham_metin": "20",
+          "ocr_ham_deger": 20,
+          "arka_plan": "#FFFEDC",
+          "yazi_rengi": "#3E3A36",
+          "hizalama": "yatay",
+          "gercek_metin": "20",
+          "deger": 20.0,
+          "birim": "",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            271,
+            266,
+            312,
+            292
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FDFDDA",
+          "yazi_rengi": "#2C2C1E",
+          "hizalama": "yatay",
+          "gercek_metin": "5 m",
+          "deger": 5.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            90,
+            355,
+            141,
+            379
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFCD7",
+          "yazi_rengi": "#696659",
+          "hizalama": "yatay",
+          "gercek_metin": "10 m",
+          "deger": 10.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        463,
+        396
+      ],
+      "sekil_ozeti": "Parabolik tepe y = (1/20)x² üzerinden kayan kayakçı, 5 m tepe yüksekliği ve 10 m yatay mesafesi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 5,
+          "birim": "m",
+          "neden": "A noktasının düşey yüksekliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 10,
+          "birim": "m",
+          "neden": "A noktasının yatay konumu."
+        },
+        {
+          "etiket": "c",
+          "deger": 20,
+          "birim": "",
+          "neden": "Parabol denklem katsayısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            406,
+            9,
+            459,
+            40
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#3E3A36",
+          "hizalama": "yatay",
+          "gercek_metin": "x²",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "sayilar": [
+            2
+          ]
+        },
+        {
+          "kutu": [
+            330,
+            14,
+            386,
+            48
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFEDA",
+          "yazi_rengi": "#403C38",
+          "hizalama": "yatay",
+          "gercek_metin": "y = (1/20)",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "sayilar": [
+            20
+          ]
+        },
+        {
+          "kutu": [
+            405,
+            27,
+            435,
+            51
+          ],
+          "ocr_ham_metin": "20",
+          "ocr_ham_deger": 20,
+          "arka_plan": "#FFFEDC",
+          "yazi_rengi": "#3E3A36",
+          "hizalama": "yatay",
+          "gercek_metin": "20",
+          "deger": 20.0,
+          "birim": "",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            271,
+            266,
+            312,
+            292
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FDFDDA",
+          "yazi_rengi": "#2C2C1E",
+          "hizalama": "yatay",
+          "gercek_metin": "5 m",
+          "deger": 5.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            90,
+            355,
+            141,
+            379
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFCD7",
+          "yazi_rengi": "#696659",
+          "hizalama": "yatay",
+          "gercek_metin": "10 m",
+          "deger": 10.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        206,
+        229
+      ],
+      "sekil_ozeti": "Dönme dolap şeması ve yarıçap r ile açı θ sembolleri.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            164,
+            49,
+            194,
+            69
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1011BF",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Dönme dolap kabin ve parmaklık çizgisi gürültüsü"
+        },
+        {
+          "kutu": [
+            37,
+            183,
+            128,
+            218
+          ],
+          "ocr_ham_metin": "6848",
+          "ocr_ham_deger": 6848,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0000C1",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Dönme dolap tekerlek çerçeve ve kabin gürültüsü"
+        }
+      ]
+    },
+    "S21_1.png": {
+      "soru_no": 21,
+      "boyut": [
+        408,
+        262
+      ],
+      "sekil_ozeti": "Dönen kol üzerinde kayan bilezik şeması (r, θ kutupsal koordinatları).",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S22_1.png": {
+      "soru_no": 22,
+      "boyut": [
+        405,
+        375
+      ],
+      "sekil_ozeti": "A ve M bloklarına bağlı hareketli makara sistemi ve h yüksekliği.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S23_1.png": {
+      "soru_no": 23,
+      "boyut": [
+        273,
+        581
+      ],
+      "sekil_ozeti": "A, B, C, D bloklarını birbirine bağlayan çoklu makara sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S24_1.png": {
+      "soru_no": 24,
+      "boyut": [
+        456,
+        286
+      ],
+      "sekil_ozeti": "Doğrusal kanalda bağıl hareket yapan iki motor: v_A = 2 m/s ve v_B = 4 m/s.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "m/s",
+          "neden": "A teknesinin hızı."
+        },
+        {
+          "etiket": "b",
+          "deger": 4,
+          "birim": "m/s",
+          "neden": "B teknesinin hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            122,
+            2,
+            168,
+            22
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#2A100F",
+          "hizalama": "yatay",
+          "gercek_metin": "v_A = 2 m/s",
+          "deger": 2.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            282,
+            2,
+            328,
+            22
+          ],
+          "ocr_ham_metin": "4 ft/s",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#10102C",
+          "hizalama": "yatay",
+          "gercek_metin": "v_B = 4 m/s",
+          "deger": 4.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S25_1.png": {
+      "soru_no": 25,
+      "boyut": [
+        0,
+        0
+      ],
+      "cizim": "solvers/cizimler.py:s25",
+      "sekil_ozeti": "C ve D motorlarının A ve B bloklarını çektiği düzenek, bloklar arası 3 m (şematik, matplotlib).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3,
+          "birim": "",
+          "neden": "a_C katsayısı."
+        },
+        {
+          "etiket": "b",
+          "deger": 5,
+          "birim": "m/s²",
+          "neden": "a_D."
+        },
+        {
+          "etiket": "c",
+          "deger": 3,
+          "birim": "m",
+          "neden": "Bloklar arası mesafe."
+        }
+      ],
+      "tespitler": []
+    }
+  },
+  "Dinamik 3. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "soru_no": 10,
+      "boyut": [
+        335,
+        363
+      ],
+      "sekil_ozeti": "4 m uzunluğundaki ipe bağlı 30 kg kütleli topun düşey dairesel yörüngede hareketi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 4,
+          "birim": "m",
+          "neden": "İp uzunluğu, dairesel yörünge yarıçapını belirler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            24,
+            180,
+            63,
+            204
+          ],
+          "ocr_ham_metin": "4m",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#19151C",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m",
+          "deger": 4.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S11_1.png": {
+      "soru_no": 11,
+      "boyut": [
+        302,
+        247
+      ],
+      "sekil_ozeti": "Dairesel tepe ve çukur profili üzerinde hareket eden araba ve r eğrilik yarıçapı sembolleri.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S12_1.png": {
+      "soru_no": 12,
+      "boyut": [
+        330,
+        355
+      ],
+      "sekil_ozeti": "Dönen çubuk üzerinde merkezden 0.6 m uzakta bulunan 0.5 kg bilezik ve açısal hız gösterimi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.6,
+          "birim": "m",
+          "neden": "Bileziğin dönme merkezine radyal uzaklığı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            167,
+            80,
+            222,
+            104
+          ],
+          "ocr_ham_metin": "0.6 m",
+          "ocr_ham_deger": 0.6,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#432530",
+          "hizalama": "yatay",
+          "gercek_metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            34,
+            174,
+            70,
+            196
+          ],
+          "ocr_ham_metin": "0.0",
+          "ocr_ham_deger": 0.0,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#272346",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Açısal hız türevi sembolleri theta dot ve theta double dot"
+        }
+      ]
+    },
+    "S13_1.png": {
+      "soru_no": 13,
+      "boyut": [
+        361,
+        98
+      ],
+      "sekil_ozeti": "Tekne taşıyan römorku çeken kamyonet ve çeki demiri C bağlantısı.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S14_1.png": {
+      "soru_no": 14,
+      "boyut": [
+        195,
+        285
+      ],
+      "sekil_ozeti": "A bloğu ve kordona uygulanan F çekme kuvvetine sahip makara sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            52,
+            201,
+            64,
+            214
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040718",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kuvvet vektörü F etiketi"
+        }
+      ]
+    },
+    "S15_1.png": {
+      "soru_no": 15,
+      "boyut": [
+        304,
+        163
+      ],
+      "sekil_ozeti": "İvmelenen A arabası üzerindeki eğik yüzeyden kayan B bloğu ve θ eğim açısı.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            154,
+            106,
+            164,
+            118
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#DADADA",
+          "yazi_rengi": "#411C0F",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Eğim açısı sembolü theta"
+        }
+      ]
+    },
+    "S16_1.png": {
+      "soru_no": 16,
+      "boyut": [
+        200,
+        298
+      ],
+      "sekil_ozeti": "F = 6 kN kaldırma kuvveti ve F_D = (100v) N hava direnci etkisinde yükselen sıcak hava balonu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 6,
+          "birim": "kN",
+          "neden": "Balonun dikey kaldırma kuvveti."
+        },
+        {
+          "etiket": "b",
+          "deger": 100,
+          "birim": "N",
+          "neden": "Hıza bağlı aerodinamik sürtünme katsayısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            136,
+            16,
+            189,
+            34
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F111D",
+          "hizalama": "yatay",
+          "gercek_metin": "F_D = (100v) N",
+          "deger": 100.0,
+          "birim": "N",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            104,
+            18,
+            124,
+            34
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#201320",
+          "hizalama": "yatay",
+          "gercek_metin": "F = 6 kN",
+          "deger": 6.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            130,
+            116,
+            162,
+            132
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0C0D17",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Balon sepeti ve halat çizgisi"
+        }
+      ]
+    },
+    "S17_1.png": {
+      "soru_no": 17,
+      "boyut": [
+        276,
+        268
+      ],
+      "sekil_ozeti": "Pürüzsüz koni yüzeyinde dönen 0.2 kg blok ve koni boyutları (400 mm yükseklik, 300 mm yarıçap).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 400,
+          "birim": "mm",
+          "neden": "Koni düşey yüksekliği, yüzey eğim açısını belirler."
+        },
+        {
+          "etiket": "b",
+          "deger": 300,
+          "birim": "mm",
+          "neden": "Koni taban yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            58,
+            60,
+            107,
+            75
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#15161B",
+          "hizalama": "yatay",
+          "gercek_metin": "200 mm",
+          "deger": 200.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            223,
+            117,
+            270,
+            132
+          ],
+          "ocr_ham_metin": "400 mm",
+          "ocr_ham_deger": 400,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#050405",
+          "hizalama": "yatay",
+          "gercek_metin": "400 mm",
+          "deger": 400.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            67,
+            188,
+            115,
+            203
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#D1D1D1",
+          "yazi_rengi": "#22141F",
+          "hizalama": "yatay",
+          "gercek_metin": "300 mm",
+          "deger": 300.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S18_1.png": {
+      "soru_no": 18,
+      "boyut": [
+        252,
+        151
+      ],
+      "sekil_ozeti": "Yatay dairesel yörüngede viraj alan uçak, kaldırma kuvveti L, eğrilik yarıçapı r ve yatış açısı θ.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        285,
+        131
+      ],
+      "sekil_ozeti": "Yatayla 20° açı yapan zincirle çekilen 80 kg kütleli sandık.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 20,
+          "birim": "°",
+          "neden": "Çekme kuvvetinin yatay ve dikey bileşenlerini belirleyen açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            189,
+            55,
+            212,
+            71
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#161B1C",
+          "hizalama": "yatay",
+          "gercek_metin": "20°",
+          "deger": 20.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S1_1.png": {
+      "soru_no": 1,
+      "boyut": [
+        275,
+        370
+      ],
+      "sekil_ozeti": "Vinç kancasına her biri düşeyle 30° açı yapan sapanlarla asılı 3000 kg döküm parçası.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Sapan kollarındaki gerilme kuvvetlerini belirleyen açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            120,
+            133,
+            146,
+            148
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#132146",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            161,
+            133,
+            183,
+            148
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#132146",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        329,
+        183
+      ],
+      "sekil_ozeti": "30° eğik düzlemde 25 kg blok A, yatayda 10 kg blok C ve 5 kg silindir B'den oluşan makaralı sistem.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Eğik düzlem eğim açısı."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.2,
+          "birim": "",
+          "neden": "C bloğunun kinetik sürtünme katsayısı."
+        },
+        {
+          "etiket": "c",
+          "deger": 5,
+          "birim": "kg",
+          "neden": "Asılı B silindirinin kütlesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            216,
+            58,
+            246,
+            76
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#18181F",
+          "hizalama": "yatay",
+          "gercek_metin": "5 kg",
+          "deger": 5.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            14,
+            94,
+            52,
+            114
+          ],
+          "ocr_ham_metin": "25 kg",
+          "ocr_ham_deger": 25,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0F0F0F",
+          "hizalama": "yatay",
+          "gercek_metin": "25 kg",
+          "deger": 25.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            270,
+            96,
+            306,
+            114
+          ],
+          "ocr_ham_metin": "10 kg",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1D1529",
+          "hizalama": "yatay",
+          "gercek_metin": "10 kg",
+          "deger": 10.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            57,
+            116,
+            79,
+            131
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#909090",
+          "yazi_rengi": "#100B13",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            194,
+            151,
+            233,
+            172
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#421C32",
+          "hizalama": "yatay",
+          "gercek_metin": "(μ_k)_C = 0.2",
+          "deger": 0.2,
+          "birim": "",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            244,
+            152,
+            265,
+            167
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#251516",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Sürtünme katsayısı alt indisi"
+        }
+      ]
+    },
+    "S2_1.png": {
+      "soru_no": 2,
+      "boyut": [
+        377,
+        112
+      ],
+      "sekil_ozeti": "1:10 eğimli yolda yukarı tırmanan tren ve çekiş kuvveti F.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 10,
+          "birim": "",
+          "neden": "Eğim oranı 1:10, yerçekimi bileşenini belirler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            118,
+            82,
+            130,
+            92
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FAFCFC",
+          "yazi_rengi": "#4C2F46",
+          "hizalama": "yatay",
+          "gercek_metin": "10",
+          "deger": 10.0,
+          "birim": "",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1",
+          "deger": 1.0,
+          "birim": "",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        }
+      ]
+    },
+    "S3_1.png": {
+      "soru_no": 3,
+      "boyut": [
+        294,
+        209
+      ],
+      "sekil_ozeti": "30° eğik düzlem üzerinde duran 10 kg kütleli A bloğu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Eğik düzlemin yatay ile yaptığı açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            220,
+            175,
+            241,
+            191
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S4_1.png": {
+      "soru_no": 4,
+      "boyut": [
+        317,
+        153
+      ],
+      "sekil_ozeti": "Eğik düzlemde kayan A bloğu ve eğim açısı θ.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S5_1.png": {
+      "soru_no": 5,
+      "boyut": [
+        296,
+        139
+      ],
+      "sekil_ozeti": "Üç barcı v = 4 m/s sabit hızla çeken römorkör ve her bir barca etki eden 2 kN su direnci kuvveti.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "kN",
+          "neden": "Her bir barcın su direnci kuvveti."
+        },
+        {
+          "etiket": "b",
+          "deger": 4,
+          "birim": "m/s",
+          "neden": "Römorkörün çekme hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            238,
+            52,
+            274,
+            67
+          ],
+          "ocr_ham_metin": "4m/s",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#EBEBEB",
+          "yazi_rengi": "#04051C",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m/s",
+          "deger": 4.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            81,
+            80,
+            110,
+            93
+          ],
+          "ocr_ham_metin": "8 V",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#EBEBEB",
+          "yazi_rengi": "#110F30",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Barç çizim gölgesi ve sembolü"
+        },
+        {
+          "kutu": [
+            42,
+            112,
+            75,
+            127
+          ],
+          "ocr_ham_metin": "2kN",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#B5B5B5",
+          "yazi_rengi": "#0F1014",
+          "hizalama": "yatay",
+          "gercek_metin": "2 kN",
+          "deger": 2.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            104,
+            112,
+            137,
+            127
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#B5B5B5",
+          "yazi_rengi": "#170D18",
+          "hizalama": "yatay",
+          "gercek_metin": "2 kN",
+          "deger": 2.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            171,
+            112,
+            204,
+            127
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#B5B5B5",
+          "yazi_rengi": "#170D18",
+          "hizalama": "yatay",
+          "gercek_metin": "2 kN",
+          "deger": 2.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "gercek_metin": "1.5 kN",
+          "deger": 1.5,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S6_1.png": {
+      "soru_no": 6,
+      "boyut": [
+        272,
+        428
+      ],
+      "sekil_ozeti": "Vinç kancasına 60° ve 60° açılı zincirlerle asılı 3500 kg kütleli radyal motor.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 60,
+          "birim": "°",
+          "neden": "Zincir kollarının gerilme kuvvetlerini belirleyen açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            78,
+            110,
+            114,
+            135
+          ],
+          "ocr_ham_metin": "608",
+          "ocr_ham_deger": 608,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#432A39",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            186,
+            112,
+            220,
+            132
+          ],
+          "ocr_ham_metin": "c09",
+          "ocr_ham_deger": 9,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#472C38",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S7_1.png": {
+      "soru_no": 7,
+      "boyut": [
+        185,
+        192
+      ],
+      "sekil_ozeti": "Yörünge teğeti yatayla 30° açı yapan 50 kg kütleli merminin eğrilik yarıçapı ρ analizi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Yörüngenin anlık eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            106,
+            34,
+            130,
+            52
+          ],
+          "ocr_ham_metin": "308",
+          "ocr_ham_deger": 308,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1C1321",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S8_1.png": {
+      "soru_no": 8,
+      "boyut": [
+        264,
+        303
+      ],
+      "sekil_ozeti": "Yörünge teğeti yatayla 30° açı yapan merminin teğetsel ivme analizi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Yerçekiminin teğetsel bileşenini belirleyen açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            149,
+            46,
+            183,
+            70
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#27355B",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S9_1.png": {
+      "soru_no": 9,
+      "boyut": [
+        316,
+        106
+      ],
+      "sekil_ozeti": "θ = 20° süperelevasyonlu (eğimli) virajda hareket eden araba.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 20,
+          "birim": "°",
+          "neden": "Virajın eğim açısı, merkezcil kuvveti belirler."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            261,
+            63,
+            283,
+            78
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#161B1C",
+          "hizalama": "yatay",
+          "gercek_metin": "θ = 20°",
+          "deger": 20.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    }
+  },
+  "Dinamik 4. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "soru_no": 10,
+      "boyut": [
+        254,
+        144
+      ],
+      "sekil_ozeti": "Yatay mil üzerinde k = 50 N/m ve k' = 100 N/m yaylarına bağlı 20 kg bilezik mekanizması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 50,
+          "birim": "N/m",
+          "neden": "Sol yayın yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 100,
+          "birim": "N/m",
+          "neden": "Sağ yayın yay sabiti."
+        },
+        {
+          "etiket": "c",
+          "deger": 0.25,
+          "birim": "m",
+          "neden": "Bileziğin orta konumdan başlangıç öteleme mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            49,
+            71,
+            106,
+            83
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#202953",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 50 N/m",
+          "deger": 50.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            152,
+            71,
+            215,
+            83
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#202953",
+          "hizalama": "yatay",
+          "gercek_metin": "k' = 100 N/m",
+          "deger": 100.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            180,
+            110,
+            190,
+            118
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#3B3C71",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "1 m ölçüsünün birim sembolü m"
+        },
+        {
+          "kutu": [
+            114,
+            120,
+            147,
+            132
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#53332E",
+          "hizalama": "yatay",
+          "gercek_metin": "0.25 m",
+          "deger": 0.25,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S11_1.png": {
+      "soru_no": 11,
+      "boyut": [
+        204,
+        205
+      ],
+      "sekil_ozeti": "Motor ve makara sistemiyle h yüksekliğine çıkarılan 60 kg kütleli sandık.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S12_1.png": {
+      "soru_no": 12,
+      "boyut": [
+        218,
+        52
+      ],
+      "sekil_ozeti": "T itki kuvveti uygulanan 1000 kg yarış arabası (dragster).",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S13_1.png": {
+      "soru_no": 13,
+      "boyut": [
+        260,
+        190
+      ],
+      "sekil_ozeti": "3 m yüksekten serbest bırakılıp 2 m yükseklikteki B ucundan yatay fırlatılan 5 g bilye.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3,
+          "birim": "m",
+          "neden": "Bilyenin bırakıldığı başlangıç yüksekliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "m",
+          "neden": "Kanal çıkış ucu yüksekliği (havada kalma süresini belirler)."
+        }
+      ],
+      "tespitler": [
+        {
+          "gercek_metin": "3 m",
+          "deger": 3.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        },
+        {
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        }
+      ]
+    },
+    "S14_1.png": {
+      "soru_no": 14,
+      "boyut": [
+        225,
+        188
+      ],
+      "sekil_ozeti": "45° eğik düzlemde 10 m kayarak k = 2 kN/m yayına çarpan 100 kg sandık.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 10,
+          "birim": "m",
+          "neden": "Sandığın kayma mesafesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "kN/m",
+          "neden": "Darbe emici yayın yay sabiti."
+        },
+        {
+          "etiket": "c",
+          "deger": 45,
+          "birim": "°",
+          "neden": "Eğik düzlemin eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            86,
+            44,
+            110,
+            56
+          ],
+          "ocr_ham_metin": "10 m",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#473150",
+          "hizalama": "yatay",
+          "gercek_metin": "10 m",
+          "deger": 10.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "gercek_metin": "k = 2 kN/m",
+          "deger": 2.0,
+          "birim": "kN/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        },
+        {
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S15_1.png": {
+      "soru_no": 15,
+      "boyut": [
+        264,
+        190
+      ],
+      "sekil_ozeti": "Çatalları 50 mm ve gerilme mesafesi 240 mm olan lastik bant sapanı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 240,
+          "birim": "mm",
+          "neden": "Sapanın gerilme uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 50,
+          "birim": "mm",
+          "neden": "Sapan çatal aralığı yarı mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            202,
+            12,
+            234,
+            22
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#332E33",
+          "hizalama": "yatay",
+          "gercek_metin": "50 mm",
+          "deger": 50.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            226,
+            24,
+            258,
+            34
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#2E3345",
+          "hizalama": "yatay",
+          "gercek_metin": "50 mm",
+          "deger": 50.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            70,
+            42,
+            106,
+            52
+          ],
+          "ocr_ham_metin": "240 mm",
+          "ocr_ham_deger": 240,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#19375D",
+          "hizalama": "yatay",
+          "gercek_metin": "240 mm",
+          "deger": 240.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S17_1.png": {
+      "soru_no": 17,
+      "boyut": [
+        113,
+        35
+      ],
+      "sekil_ozeti": "15 kW gücündeki arabanın yan görünüşü.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S18_1.png": {
+      "soru_no": 18,
+      "boyut": [
+        228,
+        219
+      ],
+      "sekil_ozeti": "45° eğimli ve namlu boyu 2.5 m olan yaylı insan fırlatma mekanizması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2.5,
+          "birim": "m",
+          "neden": "Namlu uzunluğu (fırlatma mesafesi)."
+        },
+        {
+          "etiket": "b",
+          "deger": 45,
+          "birim": "°",
+          "neden": "Atış eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            151,
+            112,
+            185,
+            124
+          ],
+          "ocr_ham_metin": "d= 8 6",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#4D4E4F",
+          "hizalama": "yatay",
+          "gercek_metin": "2.5 m",
+          "deger": 2.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        283,
+        225
+      ],
+      "sekil_ozeti": "A bloğunun k_B = 40 kN/m ve k_C = 20 kN/m iç içe iki yayın üzerine düşürülmesi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 40,
+          "birim": "kN/m",
+          "neden": "Dış yayın (B) yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 20,
+          "birim": "kN/m",
+          "neden": "İç yayın (C) yay sabiti."
+        },
+        {
+          "etiket": "c",
+          "deger": 150,
+          "birim": "mm",
+          "neden": "A bloğunun düşme/sıkışma referans mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            150,
+            122,
+            172,
+            132
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FCFEFC",
+          "yazi_rengi": "#4F5353",
+          "hizalama": "yatay",
+          "gercek_metin": "150 mm",
+          "deger": 150.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            47,
+            146,
+            92,
+            159
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#4D4749",
+          "hizalama": "yatay",
+          "gercek_metin": "k_B = 40 kN/m",
+          "deger": 40.0,
+          "birim": "kN/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            24,
+            147,
+            40,
+            160
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#5E5D5D",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay etiketi k_B ="
+        },
+        {
+          "kutu": [
+            23,
+            208,
+            89,
+            222
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#80586E",
+          "hizalama": "yatay",
+          "gercek_metin": "k_C = 20 kN/m",
+          "deger": 20.0,
+          "birim": "kN/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "100 mm",
+          "deger": 100.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": [
+            178,
+            132,
+            200,
+            143
+          ],
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S1_1.png": {
+      "soru_no": 1,
+      "boyut": [
+        241,
+        93
+      ],
+      "sekil_ozeti": "Yatayla 15° açılı gerilme kuvveti T ile çekilen sandık.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 15,
+          "birim": "°",
+          "neden": "Çekme kablosunun yatayla yaptığı açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            178,
+            60,
+            200,
+            78
+          ],
+          "ocr_ham_metin": "15",
+          "ocr_ham_deger": 15,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#010101",
+          "hizalama": "yatay",
+          "gercek_metin": "15°",
+          "deger": 15.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        224,
+        174
+      ],
+      "sekil_ozeti": "Dünya çevresinde eliptik yörüngede dönen uydu: r_A = 20 Mm ve r_B = 80 Mm.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 20,
+          "birim": "Mm",
+          "neden": "Yerberi (perigee) mesafesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 80,
+          "birim": "Mm",
+          "neden": "Yeröte (apogee) mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            116,
+            64,
+            148,
+            74
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FDFDFC",
+          "yazi_rengi": "#424242",
+          "hizalama": "yatay",
+          "gercek_metin": "r_B = 80 Mm",
+          "deger": 80.0,
+          "birim": "Mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            124,
+            107,
+            158,
+            119
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#353434",
+          "hizalama": "yatay",
+          "gercek_metin": "r_A = 20 Mm",
+          "deger": 20.0,
+          "birim": "Mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S2_1.png": {
+      "soru_no": 2,
+      "boyut": [
+        296,
+        136
+      ],
+      "sekil_ozeti": "v hızıyla kayarak k yayına çarpan 1.5 kg blok şeması.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            42,
+            46,
+            100,
+            102
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#020202",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay helezon çizgileri"
+        }
+      ]
+    },
+    "S3_1.png": {
+      "soru_no": 3,
+      "boyut": [
+        314,
+        99
+      ],
+      "sekil_ozeti": "v_1 = 100 km/h hızla ilerlerken fren yapan 2000 kg araba.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 100,
+          "birim": "km/h",
+          "neden": "Arabanın fren öncesi ilk hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            86,
+            9,
+            145,
+            25
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1D1529",
+          "hizalama": "yatay",
+          "gercek_metin": "100 km/h",
+          "deger": 100.0,
+          "birim": "km/h",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            58,
+            12,
+            72,
+            26
+          ],
+          "ocr_ham_metin": "01",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1E2E71",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Hız vektörü sembolü v_1 ="
+        }
+      ]
+    },
+    "S5_1.png": {
+      "soru_no": 5,
+      "boyut": [
+        314,
+        99
+      ],
+      "sekil_ozeti": "v_1 = 100 km/h hızla ilerlerken fren yapan 2000 kg araba.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 100,
+          "birim": "km/h",
+          "neden": "Arabanın fren öncesi ilk hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            86,
+            9,
+            145,
+            25
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1D1529",
+          "hizalama": "yatay",
+          "gercek_metin": "100 km/h",
+          "deger": 100.0,
+          "birim": "km/h",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            58,
+            12,
+            72,
+            26
+          ],
+          "ocr_ham_metin": "01",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1E2E71",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Hız vektörü sembolü v_1 ="
+        }
+      ]
+    },
+    "S4_1.png": {
+      "soru_no": 4,
+      "boyut": [
+        241,
+        162
+      ],
+      "sekil_ozeti": "k = 2 kN/m yayına sahip yaylı tabanca mekanizması (50 mm ve 150 mm mesafeleri).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "kN/m",
+          "neden": "Tabanca yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 50,
+          "birim": "mm",
+          "neden": "Yayın ilk sıkışma miktarı."
+        },
+        {
+          "etiket": "c",
+          "deger": 150,
+          "birim": "mm",
+          "neden": "Namlu içi fırlatma mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            80,
+            7,
+            121,
+            22
+          ],
+          "ocr_ham_metin": "50 mm",
+          "ocr_ham_deger": 50,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#221E18",
+          "hizalama": "yatay",
+          "gercek_metin": "50 mm",
+          "deger": 50.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            142,
+            23,
+            191,
+            39
+          ],
+          "ocr_ham_metin": "-150 mm",
+          "ocr_ham_deger": -150,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#221E18",
+          "hizalama": "yatay",
+          "gercek_metin": "150 mm",
+          "deger": 150.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            1,
+            36,
+            73,
+            51
+          ],
+          "ocr_ham_metin": "k=2kNlm",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#12101F",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 2 kN/m",
+          "deger": 2.0,
+          "birim": "kN/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S6_1.png": {
+      "soru_no": 6,
+      "boyut": [
+        265,
+        143
+      ],
+      "sekil_ozeti": "B noktasındaki 4 m yüksekliğindeki basamaktan 30° eğimle havalanan kayakçı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 4,
+          "birim": "m",
+          "neden": "B noktasındaki sıçrama basamağı yüksekliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 30,
+          "birim": "°",
+          "neden": "İniş rampasının eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            178,
+            48,
+            196,
+            58
+          ],
+          "ocr_ham_metin": "4m",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1C1937",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m",
+          "deger": 4.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            236,
+            129,
+            253,
+            141
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#304672",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "46 m",
+          "deger": 46.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        }
+      ]
+    },
+    "S8_1.png": {
+      "soru_no": 8,
+      "boyut": [
+        205,
+        107
+      ],
+      "sekil_ozeti": "7° eğimli rampayı tırmanan 3500 lb otomobil.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 7,
+          "birim": "°",
+          "neden": "Yol eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "gercek_metin": "7°",
+          "deger": 7.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S9_1.png": {
+      "soru_no": 9,
+      "boyut": [
+        127,
+        252
+      ],
+      "sekil_ozeti": "M motoru ve C karşı ağırlığı ile dengelenen asansör kabini şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    }
+  },
+  "Dinamik 5. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "soru_no": 10,
+      "boyut": [
+        373,
+        93
+      ],
+      "sekil_ozeti": "F = 30 kN çekiş kuvveti uygulanan 3 vagon ve lokomotiften oluşan tren katarı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "kN",
+          "neden": "Lokomotifin uyguladığı çekiş kuvveti."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            286,
+            68,
+            363,
+            84
+          ],
+          "ocr_ham_metin": "F = 30 KN",
+          "ocr_ham_deger": 30,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#3A363A",
+          "hizalama": "yatay",
+          "gercek_metin": "F = 30 kN",
+          "deger": 30.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S11_1.png": {
+      "soru_no": 11,
+      "boyut": [
+        357,
+        120
+      ],
+      "sekil_ozeti": "Aralarında 5 m mesafe bulunan ve vinç kablosuyla çekilen A cipi ile B otomobili.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 5,
+          "birim": "m",
+          "neden": "İki araç arasındaki başlangıç mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            168,
+            60,
+            200,
+            78
+          ],
+          "ocr_ham_metin": "5 m",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFEFC",
+          "yazi_rengi": "#3B3E3B",
+          "hizalama": "yatay",
+          "gercek_metin": "5 m",
+          "deger": 5.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S12_1.png": {
+      "soru_no": 12,
+      "boyut": [
+        431,
+        169
+      ],
+      "sekil_ozeti": "Platform vagon üzerinde hedefe yatay mermi ateşleyen adam şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S16_1.png": {
+      "soru_no": 16,
+      "boyut": [
+        234,
+        310
+      ],
+      "sekil_ozeti": "10 kg A ve 8 kg B silindirlerinin bağlı olduğu çift makara sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 10,
+          "birim": "kg",
+          "neden": "A silindirinin kütlesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 8,
+          "birim": "kg",
+          "neden": "B silindirinin kütlesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            141,
+            216,
+            179,
+            241
+          ],
+          "ocr_ham_metin": "8kg",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FEFFFF",
+          "yazi_rengi": "#3E3C51",
+          "hizalama": "yatay",
+          "gercek_metin": "8 kg",
+          "deger": 8.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            24,
+            252,
+            64,
+            274
+          ],
+          "ocr_ham_metin": "10 kg",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#3D3B53",
+          "hizalama": "yatay",
+          "gercek_metin": "10 kg",
+          "deger": 10.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S17_1.png": {
+      "soru_no": 17,
+      "boyut": [
+        344,
+        282
+      ],
+      "sekil_ozeti": "10 kg ve 50 kg blokların bağlı olduğu sabit ve hareketli makaralı sistem.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 10,
+          "birim": "kg",
+          "neden": "A bloğunun ağırlığı."
+        },
+        {
+          "etiket": "b",
+          "deger": 50,
+          "birim": "kg",
+          "neden": "B bloğunun ağırlığı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            254,
+            222,
+            292,
+            240
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#3E3A3F",
+          "hizalama": "yatay",
+          "gercek_metin": "50 kg",
+          "deger": 50.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            93,
+            223,
+            130,
+            239
+          ],
+          "ocr_ham_metin": "10 Ib",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FFFFFE",
+          "yazi_rengi": "#2B2C2A",
+          "hizalama": "yatay",
+          "gercek_metin": "10 kg",
+          "deger": 10.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S18_1.png": {
+      "soru_no": 18,
+      "boyut": [
+        266,
+        200
+      ],
+      "sekil_ozeti": "k = 200 N/m elastik kordona bağlı dönen 3 kg disk ve v = 5 m/s teğetsel hızı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N/m",
+          "neden": "Elastik ipin yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 5,
+          "birim": "m/s",
+          "neden": "Diskin başlangıç teğetsel hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            68,
+            116,
+            132,
+            134
+          ],
+          "ocr_ham_metin": "200 Nlm",
+          "ocr_ham_deger": 200,
+          "arka_plan": "#D3D4D7",
+          "yazi_rengi": "#0F1014",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 200 N/m",
+          "deger": 200.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            159,
+            177,
+            229,
+            192
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#D3D4D8",
+          "yazi_rengi": "#2A2A2C",
+          "hizalama": "yatay",
+          "gercek_metin": "v = 5 m/s",
+          "deger": 5.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        326,
+        225
+      ],
+      "sekil_ozeti": "4 m/s hızla gelen topun ipe asılı B bloğuna çarpması ve blok yükselme yüksekliği h.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 4,
+          "birim": "m/s",
+          "neden": "Topun çarpışma öncesi hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            21,
+            146,
+            60,
+            162
+          ],
+          "ocr_ham_metin": "4 mls",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#241C1C",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m/s",
+          "deger": 4.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            45,
+            174,
+            77,
+            202
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#282936",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Sarı küre çizimi"
+        },
+        {
+          "kutu": [
+            44,
+            198,
+            61,
+            211
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#3A2526",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Küre altındaki A etiketi"
+        }
+      ]
+    },
+    "S1_1.png": {
+      "soru_no": 1,
+      "boyut": [
+        243,
+        154
+      ],
+      "sekil_ozeti": "Yatayla 45° açı yapan 200 N çekme kuvveti uygulanan kaya bloku.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N",
+          "neden": "Uygulanan kuvvet büyüklüğü."
+        },
+        {
+          "etiket": "b",
+          "deger": 45,
+          "birim": "°",
+          "neden": "Kuvvetin yatay ile yaptığı açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            190,
+            18,
+            240,
+            36
+          ],
+          "ocr_ham_metin": "200 N",
+          "ocr_ham_deger": 200,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1A1704",
+          "hizalama": "yatay",
+          "gercek_metin": "200 N",
+          "deger": 200.0,
+          "birim": "N",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            170,
+            70,
+            200,
+            88
+          ],
+          "ocr_ham_metin": "459",
+          "ocr_ham_deger": 459,
+          "arka_plan": "#FEFCDC",
+          "yazi_rengi": "#312E1A",
+          "hizalama": "yatay",
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S2_1.png": {
+      "soru_no": 2,
+      "boyut": [
+        243,
+        154
+      ],
+      "sekil_ozeti": "Yatayla 45° açı yapan 200 N çekme kuvveti uygulanan kaya bloku.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N",
+          "neden": "Uygulanan kuvvet büyüklüğü."
+        },
+        {
+          "etiket": "b",
+          "deger": 45,
+          "birim": "°",
+          "neden": "Kuvvetin yatay ile yaptığı açı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            190,
+            18,
+            240,
+            36
+          ],
+          "ocr_ham_metin": "200 N",
+          "ocr_ham_deger": 200,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1A1704",
+          "hizalama": "yatay",
+          "gercek_metin": "200 N",
+          "deger": 200.0,
+          "birim": "N",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            170,
+            70,
+            200,
+            88
+          ],
+          "ocr_ham_metin": "459",
+          "ocr_ham_deger": 459,
+          "arka_plan": "#FEFCDC",
+          "yazi_rengi": "#312E1A",
+          "hizalama": "yatay",
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        435,
+        293
+      ],
+      "sekil_ozeti": "Roket kızağının basamaklı itki kuvveti F(kN) - zaman t(s) grafiği (30, 60, 90, 60, 30 kN; her basamak 0.5 s).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 90,
+          "birim": "kN",
+          "neden": "Maksimum itki kuvveti."
+        },
+        {
+          "etiket": "b",
+          "deger": 2.5,
+          "birim": "s",
+          "neden": "İtki uygulama toplam süresi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            68,
+            8,
+            120,
+            26
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#322E39",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Düşey eksen etiketi T(kN)"
+        },
+        {
+          "kutu": [
+            63,
+            37,
+            84,
+            53
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#F9F9F9",
+          "yazi_rengi": "#212121",
+          "hizalama": "yatay",
+          "gercek_metin": "90",
+          "deger": 90.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            63,
+            77,
+            83,
+            93
+          ],
+          "ocr_ham_metin": "60",
+          "ocr_ham_deger": 60,
+          "arka_plan": "#FFFFFE",
+          "yazi_rengi": "#323243",
+          "hizalama": "yatay",
+          "gercek_metin": "60",
+          "deger": 60.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            63,
+            120,
+            84,
+            136
+          ],
+          "ocr_ham_metin": "30",
+          "ocr_ham_deger": 30,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#3E3C52",
+          "hizalama": "yatay",
+          "gercek_metin": "30",
+          "deger": 30.0,
+          "birim": "kN",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            312,
+            156,
+            336,
+            176
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#4B484B",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yatay eksen etiketi t(s)"
+        },
+        {
+          "kutu": [
+            119,
+            179,
+            143,
+            195
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#4D3A3D",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5",
+          "deger": 0.5,
+          "birim": "s",
+          "tur": "diger",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            193,
+            179,
+            218,
+            195
+          ],
+          "ocr_ham_metin": "15",
+          "ocr_ham_deger": 15,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#3E3F3F",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5",
+          "deger": 1.5,
+          "birim": "s",
+          "tur": "diger",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            238,
+            179,
+            250,
+            194
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#454341",
+          "hizalama": "yatay",
+          "gercek_metin": "2",
+          "deger": 2.0,
+          "birim": "s",
+          "tur": "diger",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            268,
+            179,
+            292,
+            195
+          ],
+          "ocr_ham_metin": "2.5",
+          "ocr_ham_deger": 2.5,
+          "arka_plan": "#FFFEFE",
+          "yazi_rengi": "#3E3F3F",
+          "hizalama": "yatay",
+          "gercek_metin": "2.5",
+          "deger": 2.5,
+          "birim": "s",
+          "tur": "diger",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1",
+          "deger": 1.0,
+          "birim": "s",
+          "tur": "diger",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ],
+      "grafik_noktalari": [
+        [
+          0.5,
+          30
+        ],
+        [
+          0.5,
+          60
+        ],
+        [
+          1,
+          60
+        ],
+        [
+          1,
+          90
+        ],
+        [
+          1.5,
+          90
+        ],
+        [
+          1.5,
+          60
+        ],
+        [
+          2,
+          60
+        ],
+        [
+          2,
+          30
+        ],
+        [
+          2.5,
+          30
+        ],
+        [
+          2.5,
+          0
+        ]
+      ]
+    },
+    "S22_1.png": {
+      "soru_no": 22,
+      "boyut": [
+        400,
+        218
+      ],
+      "sekil_ozeti": "60 m yükseklikte patlayan 20 m/s hızlı merminin A (45°) ve B (30°) parçalarına ayrılması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 60,
+          "birim": "m",
+          "neden": "Patlama anındaki dikey yükseklik."
+        },
+        {
+          "etiket": "b",
+          "deger": 30,
+          "birim": "°",
+          "neden": "B parçasının saçılma açısı."
+        },
+        {
+          "etiket": "c",
+          "deger": 45,
+          "birim": "°",
+          "neden": "A parçasının saçılma açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            38,
+            36,
+            94,
+            54
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FCFCFC",
+          "yazi_rengi": "#0F0F0F",
+          "hizalama": "yatay",
+          "gercek_metin": "20 m/s",
+          "deger": 20.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            141,
+            54,
+            168,
+            69
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#F6F6F6",
+          "yazi_rengi": "#393939",
+          "hizalama": "yatay",
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            260,
+            66,
+            297,
+            82
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#191919",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            350,
+            103,
+            385,
+            119
+          ],
+          "ocr_ham_metin": "60 m",
+          "ocr_ham_deger": 60,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#373646",
+          "hizalama": "yatay",
+          "gercek_metin": "60 m",
+          "deger": 60.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S23_1.png": {
+      "soru_no": 23,
+      "boyut": [
+        333,
+        305
+      ],
+      "sekil_ozeti": "0.5 m yükseklikten P kazığı üzerine vurulan C şahmerdan çekici.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Çekicin düşüş mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            76,
+            144,
+            118,
+            162
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FCFEFD",
+          "yazi_rengi": "#292D2A",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S24_1.png": {
+      "soru_no": 24,
+      "boyut": [
+        359,
+        321
+      ],
+      "sekil_ozeti": "(v_A)_1 = 5 m/s hızla gelen A bilardo topunun 30° eğik açıyla B topuna çarpması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 5,
+          "birim": "m/s",
+          "neden": "A topunun ilk geliş hızı."
+        },
+        {
+          "etiket": "b",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Çarpışma düzlemi normal açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            94,
+            50,
+            196,
+            72
+          ],
+          "ocr_ham_metin": "(vA) = 5 m/s",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#8EC67D",
+          "yazi_rengi": "#0F2F0A",
+          "hizalama": "yatay",
+          "gercek_metin": "(v_A)_1 = 5 m/s",
+          "deger": 5.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            168,
+            138,
+            196,
+            156
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#90C57E",
+          "yazi_rengi": "#193512",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S25_1.png": {
+      "soru_no": 25,
+      "boyut": [
+        433,
+        222
+      ],
+      "sekil_ozeti": "Eğri yoldan 20 m aşağı kayarak B noktasına gelen parçacık ve eğrilik yarıçapı ρ.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 20,
+          "birim": "m",
+          "neden": "A ve B noktaları arasındaki düşey kot farkı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            143,
+            148,
+            178,
+            164
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FDFDFD",
+          "yazi_rengi": "#101012",
+          "hizalama": "yatay",
+          "gercek_metin": "20 m",
+          "deger": 20.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S8_1.png": {
+      "soru_no": 8,
+      "boyut": [
+        381,
+        135
+      ],
+      "sekil_ozeti": "A vagonundan B vagonuna bağıl hız v' ile atlayan çocuk şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S9_1.png": {
+      "soru_no": 9,
+      "boyut": [
+        381,
+        135
+      ],
+      "sekil_ozeti": "A vagonundan B vagonuna bağıl hız v' ile atlayan çocuk şeması.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    }
+  },
+  "Dinamik 6. Ünite Sayısal Sorular": {
+    "S14_1.png": {
+      "soru_no": 14,
+      "boyut": [
+        183,
+        148
+      ],
+      "sekil_ozeti": "Sabit B ve hareketli C dişli rafları arasında yuvarlanan 0.3 ft yarıçaplı A pinyon dişlisi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.3,
+          "birim": "ft",
+          "neden": "A dişlisinin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            6,
+            16,
+            158,
+            66
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FBFDF9",
+          "yazi_rengi": "#181E10",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Üst kremayer dişli rafı C"
+        },
+        {
+          "kutu": [
+            149,
+            78,
+            182,
+            94
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1B2125",
+          "hizalama": "yatay",
+          "gercek_metin": "0.3 ft",
+          "deger": 0.3,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            87,
+            104,
+            126,
+            130
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1A191D",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Alt kremayer dişli profili"
+        },
+        {
+          "kutu": [
+            136,
+            110,
+            169,
+            135
+          ],
+          "ocr_ham_metin": "9",
+          "ocr_ham_deger": 9,
+          "arka_plan": "#F7F6F5",
+          "yazi_rengi": "#593A1D",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Alt kremayer dişli profili"
+        }
+      ]
+    },
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        755,
+        336
+      ],
+      "sekil_ozeti": "Yarım daire silindir üzerinde kayan çubuk (A ucu, r yarıçapı, θ açısı).",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            213,
+            102,
+            257,
+            135
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Açısal hız sembolü omega"
+        },
+        {
+          "kutu": [
+            252,
+            106,
+            278,
+            128
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Açısal ivme sembolü alpha"
+        },
+        {
+          "kutu": [
+            69,
+            159,
+            114,
+            196
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Hız vektörü sembolü v_A"
+        },
+        {
+          "kutu": [
+            276,
+            290,
+            340,
+            312
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0B0E18",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yatay konum sembolü x"
+        }
+      ]
+    },
+    "S1_1.png": {
+      "soru_no": 1,
+      "boyut": [
+        652,
+        588
+      ],
+      "sekil_ozeti": "Duvardan kayan 1.5 m uzunluğundaki çubuk: θ = 30° ve v_A = 3 m/s.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1.5,
+          "birim": "m",
+          "neden": "Çubuğun boyu."
+        },
+        {
+          "etiket": "b",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Çubuğun yatay ile yaptığı açı."
+        },
+        {
+          "etiket": "c",
+          "deger": 3,
+          "birim": "m/s",
+          "neden": "A ucunun yatay kayma hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            308,
+            230,
+            396,
+            264
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#030303",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5 m",
+          "deger": 1.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            342,
+            439,
+            466,
+            475
+          ],
+          "ocr_ham_metin": "0 = 309",
+          "ocr_ham_deger": 0,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0B0B0B",
+          "hizalama": "yatay",
+          "gercek_metin": "θ = 30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            505,
+            542,
+            636,
+            582
+          ],
+          "ocr_ham_metin": "=3m/s",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#080808",
+          "hizalama": "yatay",
+          "gercek_metin": "v_A = 3 m/s",
+          "deger": 3.0,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        414,
+        226
+      ],
+      "sekil_ozeti": "Dış yarıçapı 1 ft, iç göbeği 0.5 ft olan ve ipi v = 2 ft/s ile çekilen kademeli dişli.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1,
+          "birim": "ft",
+          "neden": "Dişlinin dış yuvarlanma yarıçapı."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "ft",
+          "neden": "İpin sarılı olduğu iç göbek yarıçapı."
+        },
+        {
+          "etiket": "c",
+          "deger": 2,
+          "birim": "ft/s",
+          "neden": "İpin çekilme hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            128,
+            42,
+            172,
+            62
+          ],
+          "ocr_ham_metin": "1 ft A",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "1 ft",
+          "deger": 1.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            331,
+            48,
+            404,
+            71
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#290D0C",
+          "hizalama": "yatay",
+          "gercek_metin": "v = 2 ft/s",
+          "deger": 2.0,
+          "birim": "ft/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            134,
+            104,
+            174,
+            122
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#B5B5B5",
+          "yazi_rengi": "#0D0D0F",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 ft",
+          "deger": 0.5,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S22_1.png": {
+      "soru_no": 22,
+      "boyut": [
+        457,
+        230
+      ],
+      "sekil_ozeti": "0.5 m kol (45° açı, 10 rad/s), 1 m biyel kolu ve 75 mm pinyon dişli mekanizması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "AB krank kolu uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 1,
+          "birim": "m",
+          "neden": "BC biyel kolu uzunluğu."
+        },
+        {
+          "etiket": "c",
+          "deger": 75,
+          "birim": "mm",
+          "neden": "Pinyon dişli yarıçapı."
+        },
+        {
+          "etiket": "d",
+          "deger": 45,
+          "birim": "°",
+          "neden": "Krank kolunun yatay açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            178,
+            51,
+            207,
+            66
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1A0A16",
+          "hizalama": "yatay",
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            156,
+            70,
+            218,
+            90
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F0D20",
+          "hizalama": "yatay",
+          "gercek_metin": "10 rad/s",
+          "deger": 10.0,
+          "birim": "rad/s",
+          "tur": "acisal_hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            126,
+            76,
+            140,
+            86
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1A0B21",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Açısal hız sembolü omega ="
+        },
+        {
+          "kutu": [
+            46,
+            128,
+            114,
+            148
+          ],
+          "ocr_ham_metin": "0.5 m 45",
+          "ocr_ham_deger": 0.5,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            368,
+            146,
+            418,
+            164
+          ],
+          "ocr_ham_metin": "75 mm",
+          "ocr_ham_deger": 75,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#161212",
+          "hizalama": "yatay",
+          "gercek_metin": "75 mm",
+          "deger": 75.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            224,
+            166,
+            292,
+            174
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kremayer dişli profili"
+        },
+        {
+          "kutu": [
+            342,
+            166,
+            396,
+            174
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kremayer dişli profili"
+        },
+        {
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S26_1.png": {
+      "soru_no": 26,
+      "boyut": [
+        300,
+        366
+      ],
+      "sekil_ozeti": "AB kolu (2 ft, 45°, 5 rad/s, 3 rad/s²) ve BC çubuğu (2.5 ft, 60°) ile C kayar bloğu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "ft",
+          "neden": "AB kolu uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 2.5,
+          "birim": "ft",
+          "neden": "BC çubuğu uzunluğu."
+        },
+        {
+          "etiket": "c",
+          "deger": 45,
+          "birim": "°",
+          "neden": "AB kolu yatay açısı."
+        },
+        {
+          "etiket": "d",
+          "deger": 60,
+          "birim": "°",
+          "neden": "BC çubuğu yatay açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            248,
+            10,
+            285,
+            31
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#030303",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "B mafsalı etiketi"
+        },
+        {
+          "kutu": [
+            168,
+            62,
+            196,
+            80
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#290D0C",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            84,
+            78,
+            138,
+            98
+          ],
+          "ocr_ham_metin": "5 rad/s",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F0D20",
+          "hizalama": "yatay",
+          "gercek_metin": "5 rad/s",
+          "deger": 5.0,
+          "birim": "rad/s",
+          "tur": "acisal_hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            64,
+            107,
+            76,
+            123
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#200F23",
+          "hizalama": "yatay",
+          "gercek_metin": "3 rad/s²",
+          "deger": 3.0,
+          "birim": "rad/s²",
+          "tur": "ivme",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            74,
+            103,
+            125,
+            130
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F0D20",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "3 rad/s² biriminin üssü"
+        },
+        {
+          "kutu": [
+            212,
+            110,
+            252,
+            128
+          ],
+          "ocr_ham_metin": "25 ft",
+          "ocr_ham_deger": 25,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#121215",
+          "hizalama": "yatay",
+          "gercek_metin": "2.5 ft",
+          "deger": 2.5,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            16,
+            112,
+            47,
+            128
+          ],
+          "ocr_ham_metin": "6",
+          "ocr_ham_deger": 6,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#2B1721",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "alpha_AB = sembolü"
+        },
+        {
+          "kutu": [
+            138,
+            150,
+            166,
+            168
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#040405",
+          "hizalama": "yatay",
+          "gercek_metin": "45°",
+          "deger": 45.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            154,
+            228,
+            180,
+            246
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#180610",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S29_1.png": {
+      "soru_no": 29,
+      "boyut": [
+        729,
+        835
+      ],
+      "sekil_ozeti": "Hidrolik silindire bağlı kırık kol ABC (AB = 0.6 m, BC = 0.5 m, aradaki açı 90°, yatayla 60°).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.6,
+          "birim": "m",
+          "neden": "AB kolu uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "BC kolu uzunluğu."
+        },
+        {
+          "etiket": "c",
+          "deger": 60,
+          "birim": "°",
+          "neden": "AB kolunun yatay ile açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            350,
+            235,
+            494,
+            285
+          ],
+          "ocr_ham_metin": "1.5 m/s",
+          "ocr_ham_deger": 1.5,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gercek_metin": "v_A = 1.5 m/s",
+          "deger": 1.5,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            350,
+            285,
+            413,
+            327
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m/s²",
+          "deger": 0.5,
+          "birim": "m/s²",
+          "tur": "ivme",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            249,
+            292,
+            307,
+            337
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "İvme etiketi a_A ="
+        },
+        {
+          "kutu": [
+            413,
+            273,
+            516,
+            345
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "0.5 m/s² birim kısmı"
+        },
+        {
+          "kutu": [
+            338,
+            520,
+            404,
+            562
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "90°",
+          "deger": 90.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            497,
+            552,
+            561,
+            592
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            568,
+            567,
+            675,
+            611
+          ],
+          "ocr_ham_metin": "0.6 m",
+          "ocr_ham_deger": 0.6,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040407",
+          "hizalama": "yatay",
+          "gercek_metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            103,
+            690,
+            208,
+            730
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#040404",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S29_2.png": {
+      "soru_no": 29,
+      "boyut": [
+        336,
+        184
+      ],
+      "sekil_ozeti": "Kırık kol ABC için ani dönme merkezi (IC) kinematik hız diyagramı.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.6,
+          "birim": "m",
+          "neden": "AB kolu uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 60,
+          "birim": "°",
+          "neden": "AB kolu eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            256,
+            61,
+            329,
+            90
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#010101",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5 m/s",
+          "deger": 1.5,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            168,
+            108,
+            220,
+            128
+          ],
+          "ocr_ham_metin": "0.6m",
+          "ocr_ham_deger": 0.6,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#010101",
+          "hizalama": "yatay",
+          "gercek_metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            136,
+            130,
+            178,
+            150
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            70,
+            150,
+            141,
+            184
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Hız sembolü v_B ve B noktası"
+        }
+      ]
+    },
+    "S30_1.png": {
+      "soru_no": 30,
+      "boyut": [
+        736,
+        670
+      ],
+      "sekil_ozeti": "Kol uzunluğu 4 m olan ve A mesnedi 1.5 m/s hızla sağa hareket eden makaslı kaldırma platformu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 4,
+          "birim": "m",
+          "neden": "Makas kolu uzunluğu (DB)."
+        },
+        {
+          "etiket": "b",
+          "deger": 1.5,
+          "birim": "m/s",
+          "neden": "A mesnedinin yatay kayma hızı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            457,
+            229,
+            530,
+            278
+          ],
+          "ocr_ham_metin": "4m",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m",
+          "deger": 4.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            146,
+            442,
+            314,
+            500
+          ],
+          "ocr_ham_metin": "15 m/s",
+          "ocr_ham_deger": 15,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5 m/s",
+          "deger": 1.5,
+          "birim": "m/s",
+          "tur": "hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S9_1.png": {
+      "soru_no": 9,
+      "boyut": [
+        230,
+        398
+      ],
+      "sekil_ozeti": "Yarıçapı r = 2 m olan ve mil ekseni etrafında dönen volan tekeri.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "m",
+          "neden": "Tekerleğin dış yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            40,
+            318,
+            70,
+            336
+          ],
+          "ocr_ham_metin": "2m",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1A1714",
+          "hizalama": "yatay",
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    }
+  },
+  "Dinamik 7. Ünite Sayısal Sorular": {
+    "S11_1.png": {
+      "soru_no": 11,
+      "boyut": [
+        164,
+        166
+      ],
+      "sekil_ozeti": "Dairesel diskin merkezindeki 25 mm yarıçaplı pim mesnedi O ve sürtünme kuvveti F.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 25,
+          "birim": "mm",
+          "neden": "Pim mesnedinin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            16,
+            55,
+            57,
+            69
+          ],
+          "ocr_ham_metin": "25 Mm",
+          "ocr_ham_deger": 25,
+          "arka_plan": "#8EC4D6",
+          "yazi_rengi": "#20293D",
+          "hizalama": "yatay",
+          "gercek_metin": "25 mm",
+          "deger": 25.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S12_1.png": {
+      "soru_no": 12,
+      "boyut": [
+        344,
+        301
+      ],
+      "sekil_ozeti": "C mesnetli L kolu (2 ft x 2 ft) ve birbirine temas eden 1 ft yarıçaplı iki disk.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "ft",
+          "neden": "L kolunun yatay ve düşey uzunlukları."
+        },
+        {
+          "etiket": "b",
+          "deger": 1,
+          "birim": "ft",
+          "neden": "D ve E disklerinin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            82,
+            45,
+            105,
+            59
+          ],
+          "ocr_ham_metin": "2 ft",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#3D3E43",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            17,
+            137,
+            40,
+            150
+          ],
+          "ocr_ham_metin": "2 ft",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FCFEFE",
+          "yazi_rengi": "#473C4C",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            287,
+            275,
+            305,
+            290
+          ],
+          "ocr_ham_metin": "30",
+          "ocr_ham_deger": 30,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#545282",
+          "hizalama": "yatay",
+          "gercek_metin": "30 rad/s",
+          "deger": 30.0,
+          "birim": "rad/s",
+          "tur": "acisal_hiz",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            262,
+            278,
+            274,
+            288
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FEFDFF",
+          "yazi_rengi": "#251F2B",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Açısal hız yön oku ve omega sembolü"
+        },
+        {
+          "gercek_metin": "1 ft",
+          "deger": 1.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        },
+        {
+          "gercek_metin": "1 ft",
+          "deger": 1.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S13_1.png": {
+      "soru_no": 13,
+      "boyut": [
+        641,
+        244
+      ],
+      "sekil_ozeti": "A ucunda yay, B ucunda kablo bulunan 2 m uzunluğundaki yatay çubuk.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "m",
+          "neden": "Çubuğun toplam uzunluğu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            280,
+            85,
+            326,
+            111
+          ],
+          "ocr_ham_metin": "2 m",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#120E0E",
+          "hizalama": "yatay",
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S14_1.png": {
+      "soru_no": 14,
+      "boyut": [
+        641,
+        244
+      ],
+      "sekil_ozeti": "A ucunda yay, B ucunda kablo bulunan 2 m uzunluğundaki yatay çubuk.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "m",
+          "neden": "Çubuğun toplam uzunluğu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            280,
+            85,
+            326,
+            111
+          ],
+          "ocr_ham_metin": "2 m",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#120E0E",
+          "hizalama": "yatay",
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S15_1.png": {
+      "soru_no": 15,
+      "boyut": [
+        213,
+        180
+      ],
+      "sekil_ozeti": "O mesnedine 2 ft kollu çubukla bağlı 1 ft yarıçaplı küre ve A kablosu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "ft",
+          "neden": "Bağlantı çubuğu uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 1,
+          "birim": "ft",
+          "neden": "Kürenin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            56,
+            36,
+            66,
+            46
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#272624",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Üst askı kablosu etiketi B"
+        },
+        {
+          "kutu": [
+            113,
+            150,
+            135,
+            164
+          ],
+          "ocr_ham_metin": "2 ft",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#3F3B4D",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1 ft",
+          "deger": 1.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S16_1.png": {
+      "soru_no": 16,
+      "boyut": [
+        357,
+        135
+      ],
+      "sekil_ozeti": "Kamyon kasasında serbest duran 3 ft yarıçaplı silindirik makara.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3,
+          "birim": "ft",
+          "neden": "Silindirin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            114,
+            47,
+            138,
+            62
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1C1321",
+          "hizalama": "yatay",
+          "gercek_metin": "3 ft",
+          "deger": 3.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S17_1.png": {
+      "soru_no": 17,
+      "boyut": [
+        351,
+        132
+      ],
+      "sekil_ozeti": "Rulolar üzerinde kayan plaka, 1.25 ft yarıçaplı disk ve M = 40 lb.ft torku.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1.25,
+          "birim": "ft",
+          "neden": "Döner diskin yarıçapı."
+        },
+        {
+          "etiket": "b",
+          "deger": 3,
+          "birim": "ft",
+          "neden": "Plakanın duvara olan mesafesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            191,
+            2,
+            265,
+            16
+          ],
+          "ocr_ham_metin": "M = 40 Ib-ft",
+          "ocr_ham_deger": 40,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#050405",
+          "hizalama": "yatay",
+          "gercek_metin": "M = 40 lb·ft",
+          "deger": 40.0,
+          "birim": "lb·ft",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            226,
+            30,
+            266,
+            46
+          ],
+          "ocr_ham_metin": "125 ft",
+          "ocr_ham_deger": 125,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1E1818",
+          "hizalama": "yatay",
+          "gercek_metin": "1.25 ft",
+          "deger": 1.25,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            253,
+            97,
+            297,
+            111
+          ],
+          "ocr_ham_metin": "F=3 ft",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "3 ft",
+          "deger": 3.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S1_1.png": {
+      "soru_no": 1,
+      "boyut": [
+        352,
+        595
+      ],
+      "sekil_ozeti": "O noktasından asılı 2 m çubuk ve ucundaki 1 m x 0.5 m boyutlarındaki dikdörtgen plaka.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "m",
+          "neden": "Askı çubuğunun uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Plakanın yüksekliği."
+        },
+        {
+          "etiket": "c",
+          "deger": 1,
+          "birim": "m",
+          "neden": "Plakanın genişliği."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            114,
+            188,
+            140,
+            243
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0C0B12",
+          "hizalama": "dikey",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi konumu sembolü y_bar"
+        },
+        {
+          "kutu": [
+            32,
+            240,
+            96,
+            277
+          ],
+          "ocr_ham_metin": "2 m",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#09060B",
+          "hizalama": "yatay",
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            222,
+            360,
+            254,
+            390
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#05040A",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi noktası etiketi G"
+        },
+        {
+          "kutu": [
+            22,
+            456,
+            104,
+            488
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#080809",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S23_1.png": {
+      "soru_no": 23,
+      "boyut": [
+        295,
+        250
+      ],
+      "sekil_ozeti": "15° eğimli el arabasında taşınan 0.6 m x 1 m boyutlarında 50 kg kutu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.6,
+          "birim": "m",
+          "neden": "Kutunun taban genişliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 1,
+          "birim": "m",
+          "neden": "Kutunun yüksekliği."
+        },
+        {
+          "etiket": "c",
+          "deger": 15,
+          "birim": "°",
+          "neden": "Araba tablasının yatayla eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            184,
+            30,
+            215,
+            43
+          ],
+          "ocr_ham_metin": "0.6 m",
+          "ocr_ham_deger": 0.6,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#25234B",
+          "hizalama": "yatay",
+          "gercek_metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        },
+        {
+          "gercek_metin": "15°",
+          "deger": 15.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S24_1.png": {
+      "soru_no": 24,
+      "boyut": [
+        245,
+        162
+      ],
+      "sekil_ozeti": "O noktasından menteşeli ve θ = 30° konumundan serbest bırakılan l boyundaki çubuk.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Çubuğun ilk serbest bırakılma açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            156,
+            58,
+            178,
+            72
+          ],
+          "ocr_ham_metin": "308",
+          "ocr_ham_deger": 308,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#132146",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S25_1.png": {
+      "soru_no": 25,
+      "boyut": [
+        313,
+        335
+      ],
+      "sekil_ozeti": "Paralelogram askı kolları (1.5 ft, 30°) ile asılı 1 ft x 2 ft plaka ve M = 10 lb·ft torku.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1.5,
+          "birim": "ft",
+          "neden": "Askı kolları uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "ft",
+          "neden": "Plakanın düşey boyutu."
+        },
+        {
+          "etiket": "c",
+          "deger": 1,
+          "birim": "ft",
+          "neden": "Plakanın yatay boyutu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            165,
+            24,
+            213,
+            38
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#37171B",
+          "hizalama": "yatay",
+          "gercek_metin": "1 ft",
+          "deger": 1.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            66,
+            44,
+            100,
+            59
+          ],
+          "ocr_ham_metin": "5",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#18181F",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5 ft",
+          "deger": 1.5,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            266,
+            133,
+            291,
+            148
+          ],
+          "ocr_ham_metin": "2 ft",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#251516",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            121,
+            261,
+            144,
+            277
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#341C13",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            69,
+            295,
+            132,
+            310
+          ],
+          "ocr_ham_metin": "91 01 = W",
+          "ocr_ham_deger": 91,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1A0D1E",
+          "hizalama": "yatay",
+          "gercek_metin": "M = 10 lb·ft",
+          "deger": 10.0,
+          "birim": "lb·ft",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S26_1.png": {
+      "soru_no": 26,
+      "boyut": [
+        198,
+        236
+      ],
+      "sekil_ozeti": "A ucunda tekerleğe asılı ve F yatay kuvvetiyle çekilen 2 ft boyundaki çubuk.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 2,
+          "birim": "ft",
+          "neden": "Asılı çubuğun boyu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            125,
+            118,
+            148,
+            132
+          ],
+          "ocr_ham_metin": "2 ft",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#251516",
+          "hizalama": "yatay",
+          "gercek_metin": "2 ft",
+          "deger": 2.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S27_1.png": {
+      "soru_no": 27,
+      "boyut": [
+        233,
+        334
+      ],
+      "sekil_ozeti": "İç yarıçapı 1.5 ft, dış yarıçapı 2.75 ft olan çift kademeli makaraya asılı B bloku.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1.5,
+          "birim": "ft",
+          "neden": "İpin sarılı olduğu iç tambur yarıçapı."
+        },
+        {
+          "etiket": "b",
+          "deger": 2.75,
+          "birim": "ft",
+          "neden": "Makaranın dış flanş yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            172,
+            39,
+            212,
+            54
+          ],
+          "ocr_ham_metin": "2.75 ft",
+          "ocr_ham_deger": 2.75,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#171124",
+          "hizalama": "yatay",
+          "gercek_metin": "2.75 ft",
+          "deger": 2.75,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            72,
+            60,
+            136,
+            78
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0C0C0C",
+          "hizalama": "yatay",
+          "gercek_metin": "1.5 ft",
+          "deger": 1.5,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S28_1.png": {
+      "soru_no": 28,
+      "boyut": [
+        362,
+        247
+      ],
+      "sekil_ozeti": "P = 200 N kuvvetle çekilen 40 mm hortum sarılı hortum makarası.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N",
+          "neden": "Hortuma uygulanan çekme kuvveti."
+        },
+        {
+          "etiket": "b",
+          "deger": 40,
+          "birim": "mm",
+          "neden": "Hortumun çapı/kesiti."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            233,
+            2,
+            275,
+            17
+          ],
+          "ocr_ham_metin": "10 mm",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1B1733",
+          "hizalama": "yatay",
+          "gercek_metin": "40 mm",
+          "deger": 40.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            291,
+            47,
+            355,
+            62
+          ],
+          "ocr_ham_metin": "P =200N",
+          "ocr_ham_deger": 200,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F111D",
+          "hizalama": "yatay",
+          "gercek_metin": "P = 200 N",
+          "deger": 200.0,
+          "birim": "N",
+          "tur": "kuvvet",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S29_1.png": {
+      "soru_no": 29,
+      "boyut": [
+        278,
+        222
+      ],
+      "sekil_ozeti": "Dış yarıçapı 4 ft ve kütle merkezi G'si 0.5 ft kaçık olan silindirik çember içinde koşan adam.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 4,
+          "birim": "ft",
+          "neden": "Silindirik çemberin iç yarıçapı."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "ft",
+          "neden": "Kütle merkezinin geometrik merkeze kaçıklığı (eksantriklik)."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            84,
+            65,
+            108,
+            80
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1B0504",
+          "hizalama": "yatay",
+          "gercek_metin": "4 ft",
+          "deger": 4.0,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            135,
+            91,
+            147,
+            103
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#191E5B",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi etiketi G"
+        },
+        {
+          "kutu": [
+            106,
+            104,
+            118,
+            114
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#270A1C",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Geometrik merkez etiketi O"
+        },
+        {
+          "kutu": [
+            94,
+            141,
+            127,
+            156
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1E1818",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 ft",
+          "deger": 0.5,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S2_1.png": {
+      "soru_no": 2,
+      "boyut": [
+        493,
+        433
+      ],
+      "sekil_ozeti": "Kenar uzunluğu a = 1 m olan eşkenar üçgen çubuk çerçeve ve ağırlık merkezi O.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1,
+          "birim": "m",
+          "neden": "Üçgenin kenar uzunluğu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            104,
+            186,
+            122,
+            204
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#080D16",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kenar uzunluğu sembolü a"
+        },
+        {
+          "gercek_metin": "a = 1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S30_1.png": {
+      "soru_no": 30,
+      "boyut": [
+        254,
+        243
+      ],
+      "sekil_ozeti": "O noktasından asılı rijit cisim için vurma merkezi P ve atalet kuvveti bileşenleri şeması.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            64,
+            91,
+            111,
+            113
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Teğetsel eylemsizlik kuvveti m(a_G)_t"
+        },
+        {
+          "kutu": [
+            161,
+            113,
+            186,
+            129
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "#DEDEDE",
+          "yazi_rengi": "#221748",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Dönme eylemsizlik momenti I_G * alpha"
+        },
+        {
+          "kutu": [
+            97,
+            138,
+            151,
+            160
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Normal eylemsizlik kuvveti m(a_G)_n"
+        },
+        {
+          "kutu": [
+            145,
+            185,
+            170,
+            199
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#D7D7D7",
+          "yazi_rengi": "#1F224F",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Radyal mesafe sembolü r_OG"
+        }
+      ]
+    },
+    "S31_1.png": {
+      "soru_no": 31,
+      "boyut": [
+        308,
+        189
+      ],
+      "sekil_ozeti": "30° eğik düzlemde yuvarlanan 0.3 m yarıçaplı disk ve ucuna bağlı 1 m boyunda AB çubuğu.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1,
+          "birim": "m",
+          "neden": "AB çubuğunun uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.3,
+          "birim": "m",
+          "neden": "Diskin yuvarlanma yarıçapı."
+        },
+        {
+          "etiket": "c",
+          "deger": 30,
+          "birim": "°",
+          "neden": "Eğik düzlemin eğim açısı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            137,
+            53,
+            162,
+            68
+          ],
+          "ocr_ham_metin": "1 m",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#131313",
+          "hizalama": "yatay",
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            248,
+            110,
+            283,
+            125
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#23192F",
+          "hizalama": "yatay",
+          "gercek_metin": "0.3 m",
+          "deger": 0.3,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            212,
+            151,
+            233,
+            167
+          ],
+          "ocr_ham_metin": "2",
+          "ocr_ham_deger": 2,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#341C13",
+          "hizalama": "yatay",
+          "gercek_metin": "30°",
+          "deger": 30.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S32_1.png": {
+      "soru_no": 32,
+      "boyut": [
+        188,
+        205
+      ],
+      "sekil_ozeti": "θ eğimli yüzeyden aşağı yuvarlanan 1.25 ft yarıçaplı tekerlek.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 1.25,
+          "birim": "ft",
+          "neden": "Tekerleğin yuvarlanma yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            13,
+            94,
+            53,
+            110
+          ],
+          "ocr_ham_metin": "125 ft",
+          "ocr_ham_deger": 125,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#15161B",
+          "hizalama": "yatay",
+          "gercek_metin": "1.25 ft",
+          "deger": 1.25,
+          "birim": "ft",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S3_1.png": {
+      "soru_no": 3,
+      "boyut": [
+        628,
+        178
+      ],
+      "sekil_ozeti": "O mesnedine sahip çubuk (3 m ve 2 m kolları) ve sol ucundaki 1 m x 1 m kare plaka.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3,
+          "birim": "m",
+          "neden": "O mesnedi ile plaka arası kol boyu."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "m",
+          "neden": "O mesnedinin sağındaki kol boyu."
+        },
+        {
+          "etiket": "c",
+          "deger": 1,
+          "birim": "m",
+          "neden": "Plakanın kenar uzunluğu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            278,
+            136,
+            296,
+            158
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#110B0B",
+          "hizalama": "yatay",
+          "gercek_metin": "3 m",
+          "deger": 3.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        },
+        {
+          "gercek_metin": "1 m",
+          "deger": 1.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        },
+        {
+          "gercek_metin": "2 m",
+          "deger": 2.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S4_1.png": {
+      "soru_no": 4,
+      "boyut": [
+        286,
+        588
+      ],
+      "sekil_ozeti": "O'dan asılı 450 mm uzunluğunda çubuk ve ucundaki 100 mm yarıçaplı dairesel plaka.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 450,
+          "birim": "mm",
+          "neden": "Askı çubuğunun uzunluğu."
+        },
+        {
+          "etiket": "b",
+          "deger": 100,
+          "birim": "mm",
+          "neden": "Dairesel ucun yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            157,
+            224,
+            252,
+            251
+          ],
+          "ocr_ham_metin": "450 mm",
+          "ocr_ham_deger": 450,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0A0505",
+          "hizalama": "yatay",
+          "gercek_metin": "450 mm",
+          "deger": 450.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            99,
+            502,
+            194,
+            530
+          ],
+          "ocr_ham_metin": "100 mm",
+          "ocr_ham_deger": 100,
+          "arka_plan": "#A1A1A1",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "100 mm",
+          "deger": 100.0,
+          "birim": "mm",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S5_1.png": {
+      "soru_no": 5,
+      "boyut": [
+        599,
+        403
+      ],
+      "sekil_ozeti": "P kuvvetiyle 60° açıyla itilen maden arabası ve geometrik boyutları (0.3m, 0.2m, 0.4m, 0.5m, 0.2m).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 60,
+          "birim": "°",
+          "neden": "Kuvvetin itme açısı."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Kuvvet uygulama noktası yüksekliği."
+        },
+        {
+          "etiket": "c",
+          "deger": 0.2,
+          "birim": "m",
+          "neden": "Kütle merkezinin düşey kotu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            462,
+            82,
+            490,
+            104
+          ],
+          "ocr_ham_metin": "60",
+          "ocr_ham_deger": 60,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F0B15",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            475,
+            209,
+            533,
+            233
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#191616",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            164,
+            230,
+            196,
+            250
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#CFCFCF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi etiketi G"
+        },
+        {
+          "kutu": [
+            305,
+            268,
+            363,
+            292
+          ],
+          "ocr_ham_metin": "0.2 m",
+          "ocr_ham_deger": 0.2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1D1013",
+          "hizalama": "yatay",
+          "gercek_metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            100,
+            365,
+            276,
+            396
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "0.3 m",
+          "deger": 0.3,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            315,
+            366,
+            374,
+            390
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#180D0D",
+          "hizalama": "yatay",
+          "gercek_metin": "0.4 m",
+          "deger": 0.4,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S6_1.png": {
+      "soru_no": 6,
+      "boyut": [
+        564,
+        399
+      ],
+      "sekil_ozeti": "Maden arabası ivme ve düşey mesnet tepki kuvvetleri analiz şeması.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 60,
+          "birim": "°",
+          "neden": "İtme açısı."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.2,
+          "birim": "m",
+          "neden": "Kütle merkezi kotu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            458,
+            76,
+            484,
+            98
+          ],
+          "ocr_ham_metin": "60",
+          "ocr_ham_deger": 60,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#0F0B15",
+          "hizalama": "yatay",
+          "gercek_metin": "60°",
+          "deger": 60.0,
+          "birim": "°",
+          "tur": "aci",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            470,
+            203,
+            528,
+            227
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#191616",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            160,
+            224,
+            190,
+            244
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#CFCFCF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi etiketi G"
+        },
+        {
+          "kutu": [
+            302,
+            264,
+            358,
+            286
+          ],
+          "ocr_ham_metin": "0.2 m",
+          "ocr_ham_deger": 0.2,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#1D1013",
+          "hizalama": "yatay",
+          "gercek_metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            95,
+            360,
+            270,
+            387
+          ],
+          "ocr_ham_metin": "0.3m-+0.2 mt",
+          "ocr_ham_deger": 0.3,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "0.3 m",
+          "deger": 0.3,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            310,
+            360,
+            370,
+            384
+          ],
+          "ocr_ham_metin": "0.4 m",
+          "ocr_ham_deger": 0.4,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#180D0D",
+          "hizalama": "yatay",
+          "gercek_metin": "0.4 m",
+          "deger": 0.4,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S7_1.png": {
+      "soru_no": 7,
+      "boyut": [
+        278,
+        114
+      ],
+      "sekil_ozeti": "Kalkış ivmelenmesi yapan yolcu uçağı ve iniş takımı mesafeleri (30 m, 7.5 m, 4 m, 5 m, 9 m).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "m",
+          "neden": "Ön ve ana iniş takımları arası dingil mesafesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 7.5,
+          "birim": "m",
+          "neden": "Kütle merkezinin ana iniş takımına mesafesi."
+        },
+        {
+          "etiket": "c",
+          "deger": 9,
+          "birim": "m",
+          "neden": "Ağırlık merkezi G'nin yerden yüksekliği."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            234,
+            54,
+            254,
+            64
+          ],
+          "ocr_ham_metin": "5 m",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#2E2F3A",
+          "hizalama": "yatay",
+          "gercek_metin": "5 m",
+          "deger": 5.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            197,
+            56,
+            220,
+            67
+          ],
+          "ocr_ham_metin": "6",
+          "ocr_ham_deger": 6,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "4 m",
+          "deger": 4.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            150,
+            68,
+            162,
+            78
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#292A5D",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Ana iniş takımı B etiketi"
+        },
+        {
+          "kutu": [
+            86,
+            80,
+            112,
+            90
+          ],
+          "ocr_ham_metin": "30 m",
+          "ocr_ham_deger": 30,
+          "arka_plan": "#F6F6F6",
+          "yazi_rengi": "#473232",
+          "hizalama": "yatay",
+          "gercek_metin": "30 m",
+          "deger": 30.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            138,
+            90,
+            164,
+            100
+          ],
+          "ocr_ham_metin": "75m",
+          "ocr_ham_deger": 75,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#362E2F",
+          "hizalama": "yatay",
+          "gercek_metin": "7.5 m",
+          "deger": 7.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "9 m",
+          "deger": 9.0,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "dikey"
+        }
+      ]
+    },
+    "S8_1.png": {
+      "soru_no": 8,
+      "boyut": [
+        296,
+        303
+      ],
+      "sekil_ozeti": "Forklift vinç ve taşınan yükün geometrik mesafeleri (0.7m, 0.4m, 0.75m, 0.5m).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.75,
+          "birim": "m",
+          "neden": "Ön tekerlek ile yük ağırlık merkezi mesafesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Ön ve arka tekerlekler arası mesafe."
+        },
+        {
+          "etiket": "c",
+          "deger": 0.4,
+          "birim": "m",
+          "neden": "Forklift ağırlık merkezi kotu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            158,
+            81,
+            193,
+            96
+          ],
+          "ocr_ham_metin": "0.7 m",
+          "ocr_ham_deger": 0.7,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#1F1F20",
+          "hizalama": "yatay",
+          "gercek_metin": "0.7 m",
+          "deger": 0.7,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            137,
+            198,
+            158,
+            211
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#E4C9AE",
+          "yazi_rengi": "#1B0702",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Kütle merkezi etiketi G"
+        },
+        {
+          "kutu": [
+            251,
+            228,
+            286,
+            242
+          ],
+          "ocr_ham_metin": "3",
+          "ocr_ham_deger": 3,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#353234",
+          "hizalama": "yatay",
+          "gercek_metin": "0.4 m",
+          "deger": 0.4,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            81,
+            279,
+            121,
+            294
+          ],
+          "ocr_ham_metin": "0.75 m",
+          "ocr_ham_deger": 0.75,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#4F414B",
+          "hizalama": "yatay",
+          "gercek_metin": "0.75 m",
+          "deger": 0.75,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            173,
+            280,
+            208,
+            293
+          ],
+          "ocr_ham_metin": "8",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FEFEFF",
+          "yazi_rengi": "#1B1A1A",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S9_1.png": {
+      "soru_no": 9,
+      "boyut": [
+        636,
+        168
+      ],
+      "sekil_ozeti": "Kalkış ivmesinde ön tekerleği A yerden kalkan dragster (3.2 m, 0.25 m, 0.75 m, 0.35 m mesafeleri).",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3.2,
+          "birim": "m",
+          "neden": "Ön ve arka tekerlekler arası dingil mesafesi."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.25,
+          "birim": "m",
+          "neden": "Arka tekerlek ile ağırlık merkezi mesafesi."
+        },
+        {
+          "etiket": "c",
+          "deger": 0.75,
+          "birim": "m",
+          "neden": "Paraşüt bağlama yüksekliği."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            358,
+            14,
+            530,
+            58
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0F1111",
+          "hizalama": "yatay",
+          "gercek_metin": "0.75 m",
+          "deger": 0.75,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            228,
+            85,
+            319,
+            143
+          ],
+          "ocr_ham_metin": "Al 6",
+          "ocr_ham_deger": 6,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0A0A09",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "A ve G noktaları etiketleri"
+        },
+        {
+          "kutu": [
+            415,
+            126,
+            483,
+            153
+          ],
+          "ocr_ham_metin": "32 m",
+          "ocr_ham_deger": 32,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#141210",
+          "hizalama": "yatay",
+          "gercek_metin": "3.2 m",
+          "deger": 3.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            264,
+            150,
+            310,
+            168
+          ],
+          "ocr_ham_metin": "126",
+          "ocr_ham_deger": 126,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#0F0F0F",
+          "hizalama": "yatay",
+          "gercek_metin": "0.25 m",
+          "deger": 0.25,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "gercek_metin": "0.35 m",
+          "deger": 0.35,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    }
+  },
+  "Dinamik 8. Ünite Sayısal Sorular": {
+    "S19_1.png": {
+      "soru_no": 19,
+      "boyut": [
+        409,
+        363
+      ],
+      "sekil_ozeti": "Burulma rijitlikli mile bağlı a = 0.2 m ve b = 0.3 m boyutlarında 10 kg plaka titreşim sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.2,
+          "birim": "m",
+          "neden": "Plakanın a kenar boyutu."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.3,
+          "birim": "m",
+          "neden": "Plakanın b kenar boyutu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            236,
+            284,
+            326,
+            306
+          ],
+          "ocr_ham_metin": "b = 0.3m",
+          "ocr_ham_deger": 0.3,
+          "arka_plan": "#FEFDDC",
+          "yazi_rengi": "#323023",
+          "hizalama": "yatay",
+          "gercek_metin": "b = 0.3 m",
+          "deger": 0.3,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            70,
+            296,
+            124,
+            318
+          ],
+          "ocr_ham_metin": "0.2 m",
+          "ocr_ham_deger": 0.2,
+          "arka_plan": "#FDFDDC",
+          "yazi_rengi": "#140E05",
+          "hizalama": "yatay",
+          "gercek_metin": "a = 0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "soru_no": 20,
+      "boyut": [
+        409,
+        363
+      ],
+      "sekil_ozeti": "Burulma rijitlikli mile bağlı a = 0.2 m ve b = 0.3 m boyutlarında 10 kg plaka titreşim sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 0.2,
+          "birim": "m",
+          "neden": "Plakanın a kenar boyutu."
+        },
+        {
+          "etiket": "b",
+          "deger": 0.3,
+          "birim": "m",
+          "neden": "Plakanın b kenar boyutu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            236,
+            284,
+            326,
+            306
+          ],
+          "ocr_ham_metin": "b = 0.3m",
+          "ocr_ham_deger": 0.3,
+          "arka_plan": "#FEFDDC",
+          "yazi_rengi": "#323023",
+          "hizalama": "yatay",
+          "gercek_metin": "b = 0.3 m",
+          "deger": 0.3,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            70,
+            296,
+            124,
+            318
+          ],
+          "ocr_ham_metin": "0.2 m",
+          "ocr_ham_deger": 0.2,
+          "arka_plan": "#FDFDDC",
+          "yazi_rengi": "#140E05",
+          "hizalama": "yatay",
+          "gercek_metin": "a = 0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S21_1.png": {
+      "soru_no": 21,
+      "boyut": [
+        622,
+        555
+      ],
+      "sekil_ozeti": "10 kg blok, 15 kg disk (0.5 m yarıçap) ve k = 200 N/m yayından oluşan dönel titreşim sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N/m",
+          "neden": "Yayın yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 15,
+          "birim": "kg",
+          "neden": "Diskin kütlesi."
+        },
+        {
+          "etiket": "c",
+          "deger": 10,
+          "birim": "kg",
+          "neden": "Asılı bloğun kütlesi."
+        },
+        {
+          "etiket": "d",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Diskin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            396,
+            10,
+            588,
+            46
+          ],
+          "ocr_ham_metin": "k = 200 N/m",
+          "ocr_ham_deger": 200,
+          "arka_plan": "#FEFDD8",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 200 N/m",
+          "deger": 200.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            434,
+            47,
+            558,
+            95
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FCFCD9",
+          "yazi_rengi": "#4B5B51",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay helezonu çizimi"
+        },
+        {
+          "kutu": [
+            160,
+            152,
+            182,
+            182
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#A6C9D3",
+          "yazi_rengi": "#000017",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            184,
+            152,
+            232,
+            184
+          ],
+          "ocr_ham_metin": "5m",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#A6C9D3",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "0.5 m ölçüsünün 5m parçası"
+        },
+        {
+          "kutu": [
+            266,
+            186,
+            293,
+            215
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#A5C7D2",
+          "yazi_rengi": "#172431",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Disk merkezi etiketi O"
+        },
+        {
+          "kutu": [
+            221,
+            279,
+            303,
+            316
+          ],
+          "ocr_ham_metin": "15 kg",
+          "ocr_ham_deger": 15,
+          "arka_plan": "#9BC7D2",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "15 kg",
+          "deger": 15.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            104,
+            472,
+            185,
+            510
+          ],
+          "ocr_ham_metin": "10 kg",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#96DCB2",
+          "yazi_rengi": "#000003",
+          "hizalama": "yatay",
+          "gercek_metin": "10 kg",
+          "deger": 10.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S22_1.png": {
+      "soru_no": 22,
+      "boyut": [
+        622,
+        555
+      ],
+      "sekil_ozeti": "10 kg blok, 15 kg disk (0.5 m yarıçap) ve k = 200 N/m yayından oluşan dönel titreşim sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 200,
+          "birim": "N/m",
+          "neden": "Yayın yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 15,
+          "birim": "kg",
+          "neden": "Diskin kütlesi."
+        },
+        {
+          "etiket": "c",
+          "deger": 10,
+          "birim": "kg",
+          "neden": "Asılı bloğun kütlesi."
+        },
+        {
+          "etiket": "d",
+          "deger": 0.5,
+          "birim": "m",
+          "neden": "Diskin yarıçapı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            396,
+            10,
+            588,
+            46
+          ],
+          "ocr_ham_metin": "k = 200 N/m",
+          "ocr_ham_deger": 200,
+          "arka_plan": "#FEFDD8",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 200 N/m",
+          "deger": 200.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            434,
+            47,
+            558,
+            95
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FCFCD9",
+          "yazi_rengi": "#4B5B51",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay helezonu çizimi"
+        },
+        {
+          "kutu": [
+            160,
+            152,
+            182,
+            182
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#A6C9D3",
+          "yazi_rengi": "#000017",
+          "hizalama": "yatay",
+          "gercek_metin": "0.5 m",
+          "deger": 0.5,
+          "birim": "m",
+          "tur": "uzunluk",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        },
+        {
+          "kutu": [
+            184,
+            152,
+            232,
+            184
+          ],
+          "ocr_ham_metin": "5m",
+          "ocr_ham_deger": 5,
+          "arka_plan": "#A6C9D3",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "0.5 m ölçüsünün 5m parçası"
+        },
+        {
+          "kutu": [
+            266,
+            186,
+            293,
+            215
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#A5C7D2",
+          "yazi_rengi": "#172431",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Disk merkezi etiketi O"
+        },
+        {
+          "kutu": [
+            221,
+            279,
+            303,
+            316
+          ],
+          "ocr_ham_metin": "15 kg",
+          "ocr_ham_deger": 15,
+          "arka_plan": "#9BC7D2",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "15 kg",
+          "deger": 15.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            104,
+            472,
+            185,
+            510
+          ],
+          "ocr_ham_metin": "10 kg",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#96DCB2",
+          "yazi_rengi": "#000003",
+          "hizalama": "yatay",
+          "gercek_metin": "10 kg",
+          "deger": 10.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S23_1.png": {
+      "soru_no": 23,
+      "boyut": [
+        479,
+        165
+      ],
+      "sekil_ozeti": "İki paralel yay k_1 ve k_2 arasına bağlı araba titreşim sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            98,
+            32,
+            122,
+            54
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FDFCFC",
+          "yazi_rengi": "#4D4C48",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay sabiti sembolü k_2"
+        },
+        {
+          "kutu": [
+            362,
+            35,
+            398,
+            59
+          ],
+          "ocr_ham_metin": "14",
+          "ocr_ham_deger": 14,
+          "arka_plan": "#FDFDFE",
+          "yazi_rengi": "#565550",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay sabiti sembolü k_1"
+        },
+        {
+          "kutu": [
+            142,
+            44,
+            164,
+            66
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#242326",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Bağlantı noktası C etiketi"
+        }
+      ]
+    },
+    "S24_1.png": {
+      "soru_no": 24,
+      "boyut": [
+        479,
+        165
+      ],
+      "sekil_ozeti": "İki paralel yay k_1 ve k_2 arasına bağlı araba titreşim sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            98,
+            32,
+            122,
+            54
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "#FDFCFC",
+          "yazi_rengi": "#4D4C48",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay sabiti sembolü k_2"
+        },
+        {
+          "kutu": [
+            362,
+            35,
+            398,
+            59
+          ],
+          "ocr_ham_metin": "14",
+          "ocr_ham_deger": 14,
+          "arka_plan": "#FDFDFE",
+          "yazi_rengi": "#565550",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay sabiti sembolü k_1"
+        },
+        {
+          "kutu": [
+            142,
+            44,
+            164,
+            66
+          ],
+          "ocr_ham_metin": "0",
+          "ocr_ham_deger": 0,
+          "arka_plan": "#FEFEFE",
+          "yazi_rengi": "#242326",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Bağlantı noktası C etiketi"
+        }
+      ]
+    },
+    "S25_1.png": {
+      "soru_no": 25,
+      "boyut": [
+        181,
+        377
+      ],
+      "sekil_ozeti": "Yay ve hareketli makaraya asılı m kütlesi titreşim sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S26_1.png": {
+      "soru_no": 26,
+      "boyut": [
+        187,
+        353
+      ],
+      "sekil_ozeti": "Yay ve hareketli makaraya asılı m kütlesi titreşim sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": [
+        {
+          "kutu": [
+            88,
+            77,
+            140,
+            150
+          ],
+          "ocr_ham_metin": "4",
+          "ocr_ham_deger": 4,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1F1B1C",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Yay çizimi ve k etiketi"
+        },
+        {
+          "kutu": [
+            142,
+            313,
+            158,
+            334
+          ],
+          "ocr_ham_metin": "7",
+          "ocr_ham_deger": 7,
+          "arka_plan": "#F9F9F9",
+          "yazi_rengi": "#545454",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "Düşey yer değiştirme koordinatı y"
+        }
+      ]
+    },
+    "S27_1.png": {
+      "soru_no": 27,
+      "boyut": [
+        306,
+        546
+      ],
+      "sekil_ozeti": "F = -7 sin 2t harmonik kuvveti etkisinde k yayına bağlı tek serbestlik dereceli kütle.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 7,
+          "birim": "N",
+          "neden": "Harmonik zorlama kuvveti genliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "rad/s",
+          "neden": "Zorlama açısal frekansı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            139,
+            499,
+            300,
+            526
+          ],
+          "ocr_ham_metin": "F= -7sin 2t",
+          "ocr_ham_deger": -7,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#130B19",
+          "hizalama": "yatay",
+          "gercek_metin": "F = -7 sin 2t",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            -7,
+            2
+          ]
+        }
+      ]
+    },
+    "S28_1.png": {
+      "soru_no": 28,
+      "boyut": [
+        308,
+        474
+      ],
+      "sekil_ozeti": "F = -7 sin 2t zorlamalı titreşim yapan yay-kütle sistemi rezonans modeli.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 7,
+          "birim": "N",
+          "neden": "Zorlama kuvvet genliği."
+        },
+        {
+          "etiket": "b",
+          "deger": 2,
+          "birim": "rad/s",
+          "neden": "Zorlama açısal frekansı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            206,
+            432,
+            290,
+            452
+          ],
+          "ocr_ham_metin": "-7 sin 2t",
+          "ocr_ham_deger": -7,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#070416",
+          "hizalama": "yatay",
+          "gercek_metin": "F = -7 sin 2t",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            -7,
+            2
+          ]
+        }
+      ]
+    },
+    "S29_1.png": {
+      "soru_no": 29,
+      "boyut": [
+        464,
+        175
+      ],
+      "sekil_ozeti": "İki adet k = 10 N/m paralel yaya bağlı ve F = 8 cos 3t harmonik kuvveti uygulanan kütle.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 10,
+          "birim": "N/m",
+          "neden": "Her bir yayın yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 8,
+          "birim": "N",
+          "neden": "Harmonik kuvvet genliği."
+        },
+        {
+          "etiket": "c",
+          "deger": 3,
+          "birim": "rad/s",
+          "neden": "Zorlama frekansı."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            392,
+            100,
+            464,
+            122
+          ],
+          "ocr_ham_metin": "8 cos 3t",
+          "ocr_ham_deger": 8,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#110409",
+          "hizalama": "yatay",
+          "gercek_metin": "F = 8 cos 3t",
+          "deger": null,
+          "birim": "",
+          "tur": "denklem",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "sayilar": [
+            8,
+            3
+          ]
+        },
+        {
+          "kutu": [
+            32,
+            148,
+            140,
+            168
+          ],
+          "ocr_ham_metin": "k = 10 Nlm",
+          "ocr_ham_deger": 10,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "k = 10 N/m",
+          "deger": 10.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "gercek_metin": "k = 10 N/m",
+          "deger": 10.0,
+          "birim": "N/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true,
+          "kutu": null,
+          "ocr_kacirdi": true,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay"
+        }
+      ]
+    },
+    "S30_1.png": {
+      "soru_no": 30,
+      "boyut": [
+        247,
+        248
+      ],
+      "sekil_ozeti": "k yayına ve çift c sönümleyicisine bağlı kütle sönümlü titreşim sistemi.",
+      "parametre_adaylari": [],
+      "tespitler": []
+    },
+    "S31_1.png": {
+      "soru_no": 31,
+      "boyut": [
+        213,
+        464
+      ],
+      "sekil_ozeti": "k = 30 kN/m yayı, 35 kg kütle ve c viskoz sönümleyiciden oluşan düşey titreşim sistemi.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 30,
+          "birim": "kN/m",
+          "neden": "Yayın yay sabiti."
+        },
+        {
+          "etiket": "b",
+          "deger": 35,
+          "birim": "kg",
+          "neden": "Titreşen bloğun kütlesi."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            110,
+            98,
+            196,
+            120
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FDFDFD",
+          "yazi_rengi": "#141414",
+          "hizalama": "yatay",
+          "gercek_metin": "30 kN/m",
+          "deger": 30.0,
+          "birim": "kN/m",
+          "tur": "katsayi",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        },
+        {
+          "kutu": [
+            144,
+            219,
+            181,
+            249
+          ],
+          "ocr_ham_metin": "31",
+          "ocr_ham_deger": 31,
+          "arka_plan": "desenli",
+          "yazi_rengi": "#1B1B1B",
+          "hizalama": "yatay",
+          "gecersiz": true,
+          "okuma_dogrulandi": true,
+          "not": "35 kg birim sembolü kg"
+        },
+        {
+          "kutu": [
+            122,
+            222,
+            148,
+            242
+          ],
+          "ocr_ham_metin": "35",
+          "ocr_ham_deger": 35,
+          "arka_plan": "#FBFCFB",
+          "yazi_rengi": "#1B1B1B",
+          "hizalama": "yatay",
+          "gercek_metin": "35 kg",
+          "deger": 35.0,
+          "birim": "kg",
+          "tur": "kutle",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S32_1.png": {
+      "soru_no": 32,
+      "boyut": [
+        309,
+        216
+      ],
+      "sekil_ozeti": "m kütleli rijit kiriş, iki elastik kolon ve T = 3.14 s periyotlu harmonik zorlama dalgası.",
+      "parametre_adaylari": [
+        {
+          "etiket": "a",
+          "deger": 3.14,
+          "birim": "s",
+          "neden": "Dinamik zorlama fonksiyonunun periyodu."
+        }
+      ],
+      "tespitler": [
+        {
+          "kutu": [
+            130,
+            192,
+            202,
+            212
+          ],
+          "ocr_ham_metin": "1",
+          "ocr_ham_deger": 1,
+          "arka_plan": "#FFFFFF",
+          "yazi_rengi": "#000000",
+          "hizalama": "yatay",
+          "gercek_metin": "T = 3.14 s",
+          "deger": 3.14,
+          "birim": "s",
+          "tur": "zaman",
+          "okuma_dogrulandi": true,
+          "metinde_de_var": false
+        }
+      ]
+    }
+  }
+}

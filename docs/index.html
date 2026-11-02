@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>İNM 203 Dinamik – Sınav Simülatörü</title>
+<style>
+  :root { --ink:#1b1f24; --mut:#5b6570; --line:#d5dae0; --bg:#f4f6f8; --card:#fff; --acc:#1f5fa8; --ok:#1d7a3a; --bad:#b3261e; --half:#a86b00; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:880px; margin:0 auto; padding:16px; }
+  h1 { font-size:1.4rem; margin:.2em 0; } h2 { font-size:1.1rem; margin:0 0 .5em; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:16px; margin:12px 0; }
+  .mut { color:var(--mut); font-size:.9rem; }
+  label { display:inline-block; margin:4px 14px 4px 0; }
+  select,input[type=number],input[type=text] { font:inherit; padding:5px 8px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--ink); }
+  button { font:inherit; padding:8px 16px; border-radius:8px; border:1px solid var(--acc); background:var(--acc); color:#fff; cursor:pointer; }
+  button.alt { background:#fff; color:var(--acc); } button:disabled { opacity:.5; cursor:wait; }
+  #yukleme { height:6px; background:var(--line); border-radius:3px; overflow:hidden; margin-top:8px; }
+  #yukleme i { display:block; height:100%; width:5%; background:var(--acc); transition:width .4s; }
+  #bar { position:sticky; top:0; z-index:5; background:var(--card); border-bottom:1px solid var(--line); padding:8px 16px; display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+  #bar .sp { flex:1; } #sure { font:600 1.2rem ui-monospace,Consolas,monospace; } #sure.az { color:var(--bad); }
+  .soru { padding:12px 0; border-top:1px solid var(--line); } .soru:first-child { border-top:0; }
+  .soru .no { font-weight:700; margin-right:.3em; }
+  .soru img.sekil { display:block; max-width:min(100%,360px); margin:8px 0; }
+  .sik { display:flex; gap:8px; align-items:flex-start; padding:4px 8px; margin:2px 0; border-radius:6px; cursor:pointer; border:1px solid transparent; }
+  .sik:hover { background:#eef3f9; } .sik.sec { background:#e3edf8; border-color:var(--acc); }
+  .sik b { min-width:1.2em; } .sik input { margin-top:.35em; }
+  .bosluk { margin:8px 0; } .bosluk input { width:9em; }
+  .dogru { background:#e4f4e8; border-color:var(--ok); } .yanlis { background:#fbe4e2; border-color:var(--bad); }
+  .etiket { display:inline-block; font-size:.78rem; padding:0 7px; border-radius:9px; border:1px solid var(--line); color:var(--mut); margin-left:6px; }
+  .sonuc { margin-top:8px; padding:8px 10px; border-radius:8px; background:#f1f4f7; }
+  .p-tam { color:var(--ok); font-weight:700; } .p-yarim { color:var(--half); font-weight:700; } .p-sifir { color:var(--bad); font-weight:700; }
+  details { margin-top:6px; } summary { cursor:pointer; color:var(--acc); }
+  table { border-collapse:collapse; margin:8px 0; } td,th { border:1px solid var(--line); padding:4px 10px; }
+  #ozet { font-size:1.2rem; }
+  .gizli { display:none; }
+  @media print {
+    body { background:#fff; font-size:11pt; } main { max-width:none; padding:0; }
+    #bar,.noprint,#kur,#yukleme { display:none !important; }
+    .card { border:0; padding:0; margin:0 0 8px; } .soru { break-inside:avoid; }
+    details { display:block; } details > summary { display:none; } details[open] > *, details > * { display:block; }
+    .yazdir-baslik { display:block !important; }
+  }
+  .yazdir-baslik { display:none; text-align:center; font-weight:700; }
+</style>
+</head>
+<body>
+<div id="bar" class="noprint gizli">
+  <b id="bar-ad"></b><span class="sp"></span><span id="sure"></span>
+  <button id="bitir">Sınavı bitir</button>
+</div>
+<main>
+  <section id="kur" class="card">
+    <h1>İNM 203 Dinamik – Sınav Simülatörü</h1>
+    <p class="mut">Ünite 2–5 soru bankasından, gerçek vizeyle aynı yapıda (14 soru: 4 sözel test, 5 sayısal test, 5 boşluk doldurma) rastgele deneme sınavı üretir.
+      Sayılar ve şekiller her denemede değişir. Cevaplar tarayıcınızda değerlendirilir; hiçbir veri gönderilmez.</p>
+    <div>
+      <label>Grup <select id="grup"><option value="">Rastgele</option><option>A</option><option>B</option><option>C</option><option>D</option></select></label>
+      <label>Süre (dk) <input id="dk" type="number" value="60" min="5" max="240" style="width:5em"></label>
+      <label>Deneme no <input id="seed" type="number" placeholder="boş = rastgele" style="width:9em"></label>
+    </div>
+    <p><button id="basla" disabled>Yükleniyor…</button></p>
+    <div id="yukleme"><i></i></div>
+    <p id="durum" class="mut">Python çalışma ortamı yükleniyor (ilk açılışta ~15 MB, sonra önbellekten gelir)…</p>
+    <p class="mut">Aynı "Deneme no" ve grupla aynı sınav yeniden üretilir; bağlantıyı paylaşarak arkadaşınızla aynı sınavı çözebilirsiniz.
+      Boşluk doldurmada ±%5 içinde tam, %5–%10 arasında yarım puan (|cevap| &lt; 0,01 ise ±0,001 tam, ±0,002 yarım). Birimi yazmayın, yalnızca sayıyı girin.</p>
+  </section>
+  <section id="sinav" class="gizli">
+    <div class="yazdir-baslik" id="pbaslik"></div>
+    <div class="card" id="sorular"></div>
+    <div class="card"><h2>Formüller</h2><div id="formul"></div></div>
+    <div class="card noprint"><button id="bitir2">Sınavı bitir ve değerlendir</button></div>
+  </section>
+  <section id="bitis" class="gizli">
+    <div class="card"><div id="ozet"></div>
+      <p class="noprint"><button id="yaz">Sonucu PDF olarak kaydet / yazdır</button> <button class="alt" id="yeni">Yeni deneme</button></p>
+      <p class="mut noprint">Yazdır penceresinde “Hedef: PDF olarak kaydet” seçin.</p></div>
+  </section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+<script>
+window.MathJax = { tex: { inlineMath: [["$", "$"]], displayMath: [["$$", "$$"]] }, svg: { fontCache: "global" }, startup: { typeset: false } };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg.min.js"></script>
+<script src="https://cdn.jsdelivr.net/pyodide/v0.26.4/full/pyodide.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const HARF = "abcde";
+let py, sim, sinav, cevaplar, bitti, sureBit, zamanlayici;
+
+function ilerle(y, mesaj) { $("yukleme").firstElementChild.style.width = y + "%"; if (mesaj) $("durum").textContent = mesaj; }
+
+async function yukle() {
+  try {
+    ilerle(10, "Python yükleniyor…");
+    py = await loadPyodide();
+    ilerle(35, "Kütüphaneler (numpy, matplotlib, pillow) yükleniyor…");
+    await py.loadPackage(["matplotlib", "pillow"]);
+    ilerle(75, "Soru bankası yükleniyor…");
+    const buf = await (await fetch("paket.zip")).arrayBuffer();
+    py.unpackArchive(buf, "zip", { extractDir: "/proje" });
+    py.runPython('import sys; sys.path.insert(0, "/proje/solvers")');
+    ilerle(90, "Çözücüler hazırlanıyor…");
+    sim = py.pyimport("sim");
+    ilerle(100, "Hazır.");
+    $("basla").disabled = false; $("basla").textContent = "Sınavı başlat";
+    if (location.hash.includes("s=")) baslat();
+  } catch (e) { $("durum").textContent = "Yükleme hatası: " + e; console.error(e); }
+}
+
+function md(t) {   // markdown + LaTeX: matematik işaretlerini marked'dan korur
+  const m = [];
+  t = t.replace(/\$\$[\s\S]+?\$\$|\$[^$\n]+?\$/g, s => { m.push(s); return "@@M" + (m.length - 1) + "@@"; });
+  t = marked.parse(t, { breaks: true, gfm: true });
+  return t.replace(/@@M(\d+)@@/g, (_, i) => m[+i].replace(/</g, "&lt;"));
+}
+const ic = t => md(t).replace(/^<p>|<\/p>\s*$/g, "");
+
+function hash() {
+  const h = new URLSearchParams(location.hash.slice(1));
+  return { s: +h.get("s") || 0, g: h.get("g") || "" };
+}
+
+function baslat() {
+  $("basla").disabled = true; $("basla").textContent = "Hazırlanıyor…";
+  setTimeout(() => {
+    try {
+      const h = hash();
+      let grup = $("grup").value || h.g || "ABCD"[Math.floor(Math.random() * 4)];
+      let seed = +$("seed").value || h.s || (5000 + Math.floor(Math.random() * 90000));
+      let veri = null, son = null;
+      for (let k = 0; k < 5 && !veri; k++) {
+        try { veri = JSON.parse(sim.sinav(seed + k, grup)); } catch (e) { son = e; console.error(e); }
+      }
+      if (!veri) throw son;
+      location.hash = `s=${veri.seed}&g=${grup}`;
+      goster(veri);
+    } catch (e) { $("durum").textContent = "Sınav üretilemedi: " + e; }
+    $("basla").disabled = false; $("basla").textContent = "Sınavı başlat";
+  }, 30);
+}
+
+function goster(v) {
+  sinav = v; cevaplar = {}; bitti = false;
+  const d = v.sorular;
+  const bolum = { sozel: "I. Çoktan seçmeli (sözel)", secmeli: "II. Çoktan seçmeli (sayısal)", bosluk: "III. Boşluk doldurma (sonuç sayısını girin; birim yanda yazılıdır)" };
+  let son = "", html = "";
+  for (const q of d) {
+    if (q.tur !== son) { html += `<h2 style="margin-top:14px">${bolum[q.tur]}</h2>`; son = q.tur; }
+    html += `<div class="soru" id="q${q.n}"><div><span class="no">${q.n}.</span>${ic(q.metin)}</div>`;
+    if (q.resim) html += `<img class="sekil" src="${q.resim}" alt="Şekil">`;
+    if (q.siklar) q.siklar.forEach((s, i) => {
+      html += `<label class="sik" data-q="${q.n}" data-i="${i}"><input type="radio" name="r${q.n}" value="${i}"><b>${HARF[i]})</b><span>${ic(s)}</span></label>`;
+    });
+    else html += `<div class="bosluk">Cevap: <input type="text" inputmode="decimal" data-q="${q.n}" autocomplete="off"> ${q.birim || ""}</div>`;
+    html += `<div class="cozum-yer"></div></div>`;
+  }
+  $("sorular").innerHTML = html;
+  $("formul").innerHTML = md(v.formul.replace(/^### Formüller\s*/, ""));
+  $("pbaslik").innerHTML = `İNM 203 Dinamik – Deneme sınavı – Grup ${v.grup} (deneme no ${v.seed})`;
+  $("bar-ad").textContent = `Grup ${v.grup} · deneme ${v.seed}`;
+  document.querySelectorAll(".sik").forEach(e => e.addEventListener("click", () => {
+    if (bitti) return;
+    const q = e.dataset.q;
+    document.querySelectorAll(`.sik[data-q="${q}"]`).forEach(x => x.classList.remove("sec"));
+    e.classList.add("sec"); e.querySelector("input").checked = true; cevaplar[q] = +e.dataset.i;
+  }));
+  document.querySelectorAll(".bosluk input").forEach(e => e.addEventListener("input", () => cevaplar[e.dataset.q] = e.value));
+  for (const id of ["kur", "bitis"]) $(id).classList.add("gizli");
+  $("sinav").classList.remove("gizli"); $("bar").classList.remove("gizli");
+  sureBit = Date.now() + Math.max(5, +$("dk").value || 60) * 60000;
+  clearInterval(zamanlayici); zamanlayici = setInterval(sayac, 500); sayac();
+  window.scrollTo(0, 0);
+  MathJax.typesetPromise([$("sinav")]);
+}
+
+function sayac() {
+  const k = Math.max(0, Math.round((sureBit - Date.now()) / 1000));
+  $("sure").textContent = String(Math.floor(k / 60)).padStart(2, "0") + ":" + String(k % 60).padStart(2, "0");
+  $("sure").classList.toggle("az", k < 300);
+  if (k === 0 && !bitti) bitir();
+}
+
+function puanla(q, c) {   // 1 tam, 0.5 yarım, 0 sıfır
+  if (c === undefined || c === "") return 0;
+  if (q.tur !== "bosluk") return c === q.dogru ? 1 : 0;
+  const x = parseFloat(String(c).replace(",", "."));
+  if (!isFinite(x)) return 0;
+  const k = sinav.kriter, d = q.deger, e = 1e-9;
+  if (Math.abs(d) < k.esik) { const h = Math.abs(x - d); return h <= k.mutlak + e ? 1 : h <= 2 * k.mutlak + e ? 0.5 : 0; }
+  const h = Math.abs(x - d) / Math.abs(d) * 100;
+  return h <= k.tam + e ? 1 : h <= k.yarim + e ? 0.5 : 0;
+}
+
+function bitir() {
+  if (bitti) return;
+  bitti = true; clearInterval(zamanlayici);
+  let toplam = 0;
+  const each = 100 / sinav.sorular.length;
+  for (const q of sinav.sorular) {
+    const p = puanla(q, cevaplar[q.n]); toplam += p;
+    const kutu = $("q" + q.n), yer = kutu.querySelector(".cozum-yer");
+    kutu.querySelectorAll("input").forEach(i => i.disabled = true);
+    let s = "";
+    if (q.siklar) {
+      kutu.querySelectorAll(".sik").forEach(e => {
+        const i = +e.dataset.i;
+        if (i === q.dogru) e.classList.add("dogru"); else if (i === cevaplar[q.n]) e.classList.add("yanlis");
+      });
+      s = `Doğru şık: <b>${HARF[q.dogru]})</b>`;
+    } else s = `Doğru cevap: <b>${q.cevap}</b> <span class="mut">(${q.aralik})</span>`;
+    const etiket = p === 1 ? '<span class="p-tam">✔ tam puan</span>' : p === 0.5 ? '<span class="p-yarim">½ yarım puan</span>' : `<span class="p-sifir">✘ ${cevaplar[q.n] === undefined || cevaplar[q.n] === "" ? "boş" : "yanlış"}</span>`;
+    yer.innerHTML = `<div class="sonuc">${etiket} · ${s} <span class="etiket">${q.kaynak} · ${q.zorluk}</span>` +
+      (q.cozum ? `<details open><summary>Çözüm</summary>${md(q.cozum)}</details>` : "") + `</div>`;
+  }
+  const y = Math.round(toplam * each * 10) / 10;
+  $("ozet").innerHTML = `Sonuç: <b>${y} / 100</b> <span class="mut">(her soru ${each.toFixed(2)} puan; ${toplam} / ${sinav.sorular.length} soru eşdeğeri doğru)</span>`;
+  $("bitis").classList.remove("gizli"); $("bar").classList.add("gizli");
+  document.querySelector("#sinav .card.noprint").classList.add("gizli");
+  document.querySelector(".yazdir-baslik").insertAdjacentHTML("beforeend", ` – Puan: ${y}/100`);
+  MathJax.typesetPromise([$("sinav")]);
+  window.scrollTo(0, 0);
+}
+
+$("basla").onclick = () => { history.replaceState(null, "", location.pathname); baslat(); };
+$("bitir").onclick = $("bitir2").onclick = () => { if (confirm("Sınavı bitirmek istiyor musunuz?")) bitir(); };
+$("yaz").onclick = () => window.print();
+$("yeni").onclick = () => { history.replaceState(null, "", location.pathname); location.reload(); };
+// bağlantıda #s=...&g=... varsa aynı sınav (süre alanı yine geçerli)
+yukle();
+</script>
+</body>
+</html>

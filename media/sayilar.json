@@ -1,0 +1,4912 @@
+{
+  "Dinamik 2. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "boyut": [
+        372,
+        367
+      ],
+      "soru_no": 10,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "y = 10",
+          "deger": 10,
+          "birim": "",
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "guven": 0.85,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "-6m",
+          "deger": -6,
+          "birim": "m",
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "guven": 0.34,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S11_1.png": {
+      "boyut": [
+        372,
+        367
+      ],
+      "soru_no": 11,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "y = 10",
+          "deger": 10,
+          "birim": "",
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "guven": 0.85,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "-6m",
+          "deger": -6,
+          "birim": "m",
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "guven": 0.34,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S12_1.png": {
+      "boyut": [
+        372,
+        367
+      ],
+      "soru_no": 12,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            187,
+            140,
+            217,
+            166
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "y = 10",
+          "deger": 10,
+          "birim": "",
+          "kutu": [
+            144,
+            154,
+            218,
+            186
+          ],
+          "guven": 0.85,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "-6m",
+          "deger": -6,
+          "birim": "m",
+          "kutu": [
+            178,
+            338,
+            226,
+            360
+          ],
+          "guven": 0.34,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S13_1.png": {
+      "boyut": [
+        507,
+        473
+      ],
+      "soru_no": 13,
+      "tespitler": [
+        {
+          "metin": "12 m/s",
+          "deger": 12,
+          "birim": "m/s",
+          "kutu": [
+            148,
+            93,
+            215,
+            119
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "8 = v (",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            356,
+            180,
+            433,
+            217
+          ],
+          "guven": 0.67,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "6 m",
+          "deger": 6,
+          "birim": "m",
+          "kutu": [
+            42,
+            234,
+            80,
+            256
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S14_1.png": {
+      "boyut": [
+        507,
+        473
+      ],
+      "soru_no": 14,
+      "tespitler": [
+        {
+          "metin": "12 m/s",
+          "deger": 12,
+          "birim": "m/s",
+          "kutu": [
+            148,
+            93,
+            215,
+            119
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8 = v (",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            356,
+            180,
+            433,
+            217
+          ],
+          "guven": 0.67,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "6 m",
+          "deger": 6,
+          "birim": "m",
+          "kutu": [
+            42,
+            234,
+            80,
+            256
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S15_1.png": {
+      "boyut": [
+        507,
+        473
+      ],
+      "soru_no": 15,
+      "tespitler": [
+        {
+          "metin": "12 m/s",
+          "deger": 12,
+          "birim": "m/s",
+          "kutu": [
+            148,
+            93,
+            215,
+            119
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8 = v (",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            356,
+            180,
+            433,
+            217
+          ],
+          "guven": 0.67,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "6 m",
+          "deger": 6,
+          "birim": "m",
+          "kutu": [
+            42,
+            234,
+            80,
+            256
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S16_1.png": {
+      "boyut": [
+        218,
+        172
+      ],
+      "soru_no": 16,
+      "tespitler": []
+    },
+    "S17_1.png": {
+      "boyut": [
+        218,
+        172
+      ],
+      "soru_no": 17,
+      "tespitler": []
+    },
+    "S18_1.png": {
+      "boyut": [
+        463,
+        396
+      ],
+      "soru_no": 18,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            406,
+            9,
+            459,
+            40
+          ],
+          "guven": 0.79,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            330,
+            14,
+            386,
+            48
+          ],
+          "guven": 0.57,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "20",
+          "deger": 20,
+          "birim": "",
+          "kutu": [
+            405,
+            27,
+            435,
+            51
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            271,
+            266,
+            312,
+            292
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            90,
+            355,
+            141,
+            379
+          ],
+          "guven": 0.58,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S19_1.png": {
+      "boyut": [
+        463,
+        396
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            406,
+            9,
+            459,
+            40
+          ],
+          "guven": 0.79,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            330,
+            14,
+            386,
+            48
+          ],
+          "guven": 0.57,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "20",
+          "deger": 20,
+          "birim": "",
+          "kutu": [
+            405,
+            27,
+            435,
+            51
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            271,
+            266,
+            312,
+            292
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            90,
+            355,
+            141,
+            379
+          ],
+          "guven": 0.58,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        206,
+        229
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            164,
+            49,
+            194,
+            69
+          ],
+          "guven": 0.8,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "6848",
+          "deger": 6848,
+          "birim": "",
+          "kutu": [
+            37,
+            183,
+            128,
+            218
+          ],
+          "guven": 0.34,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S21_1.png": {
+      "boyut": [
+        408,
+        262
+      ],
+      "soru_no": 21,
+      "tespitler": []
+    },
+    "S22_1.png": {
+      "boyut": [
+        405,
+        375
+      ],
+      "soru_no": 22,
+      "tespitler": []
+    },
+    "S23_1.png": {
+      "boyut": [
+        273,
+        581
+      ],
+      "soru_no": 23,
+      "tespitler": []
+    },
+    "S24_1.png": {
+      "boyut": [
+        456,
+        286
+      ],
+      "soru_no": 24,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            122,
+            2,
+            168,
+            22
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "4 ft/s",
+          "deger": 4,
+          "birim": "ft/s",
+          "kutu": [
+            282,
+            2,
+            328,
+            22
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S25_1.png": {
+      "boyut": [
+        456,
+        286
+      ],
+      "soru_no": 25,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            122,
+            2,
+            168,
+            22
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "4 ft/s",
+          "deger": 4,
+          "birim": "ft/s",
+          "kutu": [
+            282,
+            2,
+            328,
+            22
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    }
+  },
+  "Dinamik 3. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "boyut": [
+        335,
+        363
+      ],
+      "soru_no": 10,
+      "tespitler": [
+        {
+          "metin": "4m",
+          "deger": 4,
+          "birim": "m",
+          "kutu": [
+            24,
+            180,
+            63,
+            204
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S11_1.png": {
+      "boyut": [
+        302,
+        247
+      ],
+      "soru_no": 11,
+      "tespitler": []
+    },
+    "S12_1.png": {
+      "boyut": [
+        330,
+        355
+      ],
+      "soru_no": 12,
+      "tespitler": [
+        {
+          "metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "kutu": [
+            167,
+            80,
+            222,
+            104
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0.0",
+          "deger": 0.0,
+          "birim": "",
+          "kutu": [
+            34,
+            174,
+            70,
+            196
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S13_1.png": {
+      "boyut": [
+        361,
+        98
+      ],
+      "soru_no": 13,
+      "tespitler": []
+    },
+    "S14_1.png": {
+      "boyut": [
+        195,
+        285
+      ],
+      "soru_no": 14,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            52,
+            201,
+            64,
+            214
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S15_1.png": {
+      "boyut": [
+        304,
+        163
+      ],
+      "soru_no": 15,
+      "tespitler": [
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            154,
+            106,
+            164,
+            118
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S16_1.png": {
+      "boyut": [
+        200,
+        298
+      ],
+      "soru_no": 16,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            136,
+            16,
+            189,
+            34
+          ],
+          "guven": 0.7,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            104,
+            18,
+            124,
+            34
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            130,
+            116,
+            162,
+            132
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S17_1.png": {
+      "boyut": [
+        276,
+        268
+      ],
+      "soru_no": 17,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            58,
+            60,
+            107,
+            75
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "400 mm",
+          "deger": 400,
+          "birim": "mm",
+          "kutu": [
+            223,
+            117,
+            270,
+            132
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            67,
+            188,
+            115,
+            203
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S18_1.png": {
+      "boyut": [
+        252,
+        151
+      ],
+      "soru_no": 18,
+      "tespitler": []
+    },
+    "S19_1.png": {
+      "boyut": [
+        285,
+        131
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            189,
+            55,
+            212,
+            71
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S1_1.png": {
+      "boyut": [
+        275,
+        370
+      ],
+      "soru_no": 1,
+      "tespitler": [
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            120,
+            133,
+            146,
+            148
+          ],
+          "guven": 0.77,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            161,
+            133,
+            183,
+            148
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        329,
+        183
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            216,
+            58,
+            246,
+            76
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "25 kg",
+          "deger": 25,
+          "birim": "kg",
+          "kutu": [
+            14,
+            94,
+            52,
+            114
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "10 kg",
+          "deger": 10,
+          "birim": "kg",
+          "kutu": [
+            270,
+            96,
+            306,
+            114
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            57,
+            116,
+            79,
+            131
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            194,
+            151,
+            233,
+            172
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            244,
+            152,
+            265,
+            167
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S2_1.png": {
+      "boyut": [
+        377,
+        112
+      ],
+      "soru_no": 2,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            118,
+            82,
+            130,
+            92
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S3_1.png": {
+      "boyut": [
+        294,
+        209
+      ],
+      "soru_no": 3,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            220,
+            175,
+            241,
+            191
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S4_1.png": {
+      "boyut": [
+        317,
+        153
+      ],
+      "soru_no": 4,
+      "tespitler": []
+    },
+    "S5_1.png": {
+      "boyut": [
+        296,
+        139
+      ],
+      "soru_no": 5,
+      "tespitler": [
+        {
+          "metin": "4m/s",
+          "deger": 4,
+          "birim": "m/s",
+          "kutu": [
+            238,
+            52,
+            274,
+            67
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8 V",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            81,
+            80,
+            110,
+            93
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2kN",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            42,
+            112,
+            75,
+            127
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            104,
+            112,
+            137,
+            127
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            171,
+            112,
+            204,
+            127
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S6_1.png": {
+      "boyut": [
+        272,
+        428
+      ],
+      "soru_no": 6,
+      "tespitler": [
+        {
+          "metin": "608",
+          "deger": 608,
+          "birim": "",
+          "kutu": [
+            78,
+            110,
+            114,
+            135
+          ],
+          "guven": 0.79,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "c09",
+          "deger": 9,
+          "birim": "",
+          "kutu": [
+            186,
+            112,
+            220,
+            132
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S7_1.png": {
+      "boyut": [
+        185,
+        192
+      ],
+      "soru_no": 7,
+      "tespitler": [
+        {
+          "metin": "308",
+          "deger": 308,
+          "birim": "",
+          "kutu": [
+            106,
+            34,
+            130,
+            52
+          ],
+          "guven": 0.67,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S8_1.png": {
+      "boyut": [
+        264,
+        303
+      ],
+      "soru_no": 8,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            149,
+            46,
+            183,
+            70
+          ],
+          "guven": 0.5,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S9_1.png": {
+      "boyut": [
+        316,
+        106
+      ],
+      "soru_no": 9,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            261,
+            63,
+            283,
+            78
+          ],
+          "guven": 0.88,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    }
+  },
+  "Dinamik 4. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "boyut": [
+        254,
+        144
+      ],
+      "soru_no": 10,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            49,
+            71,
+            106,
+            83
+          ],
+          "guven": 0.62,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            152,
+            71,
+            215,
+            83
+          ],
+          "guven": 0.36,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            180,
+            110,
+            190,
+            118
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            114,
+            120,
+            147,
+            132
+          ],
+          "guven": 0.79,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S11_1.png": {
+      "boyut": [
+        204,
+        205
+      ],
+      "soru_no": 11,
+      "tespitler": []
+    },
+    "S12_1.png": {
+      "boyut": [
+        218,
+        52
+      ],
+      "soru_no": 12,
+      "tespitler": []
+    },
+    "S13_1.png": {
+      "boyut": [
+        260,
+        190
+      ],
+      "soru_no": 13,
+      "tespitler": []
+    },
+    "S14_1.png": {
+      "boyut": [
+        225,
+        188
+      ],
+      "soru_no": 14,
+      "tespitler": [
+        {
+          "metin": "10 m",
+          "deger": 10,
+          "birim": "m",
+          "kutu": [
+            86,
+            44,
+            110,
+            56
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S15_1.png": {
+      "boyut": [
+        264,
+        190
+      ],
+      "soru_no": 15,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            202,
+            12,
+            234,
+            22
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            226,
+            24,
+            258,
+            34
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "240 mm",
+          "deger": 240,
+          "birim": "mm",
+          "kutu": [
+            70,
+            42,
+            106,
+            52
+          ],
+          "guven": 0.8,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S17_1.png": {
+      "boyut": [
+        113,
+        35
+      ],
+      "soru_no": 17,
+      "tespitler": []
+    },
+    "S18_1.png": {
+      "boyut": [
+        228,
+        219
+      ],
+      "soru_no": 18,
+      "tespitler": [
+        {
+          "metin": "d= 8 6",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            151,
+            112,
+            185,
+            124
+          ],
+          "guven": 0.51,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S19_1.png": {
+      "boyut": [
+        283,
+        225
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            150,
+            122,
+            172,
+            132
+          ],
+          "guven": 0.75,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            47,
+            146,
+            92,
+            159
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            24,
+            147,
+            40,
+            160
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            23,
+            208,
+            89,
+            222
+          ],
+          "guven": 0.36,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S1_1.png": {
+      "boyut": [
+        241,
+        93
+      ],
+      "soru_no": 1,
+      "tespitler": [
+        {
+          "metin": "15",
+          "deger": 15,
+          "birim": "",
+          "kutu": [
+            178,
+            60,
+            200,
+            78
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        224,
+        174
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            116,
+            64,
+            148,
+            74
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            124,
+            107,
+            158,
+            119
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S2_1.png": {
+      "boyut": [
+        296,
+        136
+      ],
+      "soru_no": 2,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            42,
+            46,
+            100,
+            102
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S3_1.png": {
+      "boyut": [
+        314,
+        99
+      ],
+      "soru_no": 3,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            86,
+            9,
+            145,
+            25
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "01",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            58,
+            12,
+            72,
+            26
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S4_1.png": {
+      "boyut": [
+        241,
+        162
+      ],
+      "soru_no": 4,
+      "tespitler": [
+        {
+          "metin": "50 mm",
+          "deger": 50,
+          "birim": "mm",
+          "kutu": [
+            80,
+            7,
+            121,
+            22
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "-150 mm",
+          "deger": -150,
+          "birim": "mm",
+          "kutu": [
+            142,
+            23,
+            191,
+            39
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "k=2kNlm",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            1,
+            36,
+            73,
+            51
+          ],
+          "guven": 0.89,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S5_1.png": {
+      "boyut": [
+        314,
+        99
+      ],
+      "soru_no": 5,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            86,
+            9,
+            145,
+            25
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "01",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            58,
+            12,
+            72,
+            26
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S6_1.png": {
+      "boyut": [
+        265,
+        143
+      ],
+      "soru_no": 6,
+      "tespitler": [
+        {
+          "metin": "4m",
+          "deger": 4,
+          "birim": "m",
+          "kutu": [
+            178,
+            48,
+            196,
+            58
+          ],
+          "guven": 0.9,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            236,
+            129,
+            253,
+            141
+          ],
+          "guven": 0.69,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S8_1.png": {
+      "boyut": [
+        205,
+        107
+      ],
+      "soru_no": 8,
+      "tespitler": []
+    },
+    "S9_1.png": {
+      "boyut": [
+        127,
+        252
+      ],
+      "soru_no": 9,
+      "tespitler": []
+    }
+  },
+  "Dinamik 5. Ünite Sayısal Sorular": {
+    "S10_1.png": {
+      "boyut": [
+        373,
+        93
+      ],
+      "soru_no": 10,
+      "tespitler": [
+        {
+          "metin": "F = 30 KN",
+          "deger": 30,
+          "birim": "",
+          "kutu": [
+            286,
+            68,
+            363,
+            84
+          ],
+          "guven": 0.46,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S11_1.png": {
+      "boyut": [
+        357,
+        120
+      ],
+      "soru_no": 11,
+      "tespitler": [
+        {
+          "metin": "5 m",
+          "deger": 5,
+          "birim": "m",
+          "kutu": [
+            168,
+            60,
+            200,
+            78
+          ],
+          "guven": 0.64,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S12_1.png": {
+      "boyut": [
+        431,
+        169
+      ],
+      "soru_no": 12,
+      "tespitler": []
+    },
+    "S16_1.png": {
+      "boyut": [
+        234,
+        310
+      ],
+      "soru_no": 16,
+      "tespitler": [
+        {
+          "metin": "8kg",
+          "deger": 8,
+          "birim": "kg",
+          "kutu": [
+            141,
+            216,
+            179,
+            241
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "10 kg",
+          "deger": 10,
+          "birim": "kg",
+          "kutu": [
+            24,
+            252,
+            64,
+            274
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S17_1.png": {
+      "boyut": [
+        344,
+        282
+      ],
+      "soru_no": 17,
+      "tespitler": [
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            254,
+            222,
+            292,
+            240
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "10 Ib",
+          "deger": 10,
+          "birim": "",
+          "kutu": [
+            93,
+            223,
+            130,
+            239
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S18_1.png": {
+      "boyut": [
+        266,
+        200
+      ],
+      "soru_no": 18,
+      "tespitler": [
+        {
+          "metin": "200 Nlm",
+          "deger": 200,
+          "birim": "",
+          "kutu": [
+            68,
+            116,
+            132,
+            134
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            159,
+            177,
+            229,
+            192
+          ],
+          "guven": 0.81,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S19_1.png": {
+      "boyut": [
+        326,
+        225
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "4 mls",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            21,
+            146,
+            60,
+            162
+          ],
+          "guven": 0.89,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            45,
+            174,
+            77,
+            202
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            44,
+            198,
+            61,
+            211
+          ],
+          "guven": 0.51,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S1_1.png": {
+      "boyut": [
+        243,
+        154
+      ],
+      "soru_no": 1,
+      "tespitler": [
+        {
+          "metin": "200 N",
+          "deger": 200,
+          "birim": "N",
+          "kutu": [
+            190,
+            18,
+            240,
+            36
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "459",
+          "deger": 459,
+          "birim": "",
+          "kutu": [
+            170,
+            70,
+            200,
+            88
+          ],
+          "guven": 0.8,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        435,
+        293
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            68,
+            8,
+            120,
+            26
+          ],
+          "guven": 0.89,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            63,
+            37,
+            84,
+            53
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "60",
+          "deger": 60,
+          "birim": "",
+          "kutu": [
+            63,
+            77,
+            83,
+            93
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "30",
+          "deger": 30,
+          "birim": "",
+          "kutu": [
+            63,
+            120,
+            84,
+            136
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            312,
+            156,
+            336,
+            176
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            119,
+            179,
+            143,
+            195
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "15",
+          "deger": 15,
+          "birim": "",
+          "kutu": [
+            193,
+            179,
+            218,
+            195
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            238,
+            179,
+            250,
+            194
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "2.5",
+          "deger": 2.5,
+          "birim": "",
+          "kutu": [
+            268,
+            179,
+            292,
+            195
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S22_1.png": {
+      "boyut": [
+        400,
+        218
+      ],
+      "soru_no": 22,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            38,
+            36,
+            94,
+            54
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            141,
+            54,
+            168,
+            69
+          ],
+          "guven": 0.78,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            260,
+            66,
+            297,
+            82
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "60 m",
+          "deger": 60,
+          "birim": "m",
+          "kutu": [
+            350,
+            103,
+            385,
+            119
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S23_1.png": {
+      "boyut": [
+        333,
+        305
+      ],
+      "soru_no": 23,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            76,
+            144,
+            118,
+            162
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S24_1.png": {
+      "boyut": [
+        359,
+        321
+      ],
+      "soru_no": 24,
+      "tespitler": [
+        {
+          "metin": "(vA) = 5 m/s",
+          "deger": 5,
+          "birim": "m/s",
+          "kutu": [
+            94,
+            50,
+            196,
+            72
+          ],
+          "guven": 0.48,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            168,
+            138,
+            196,
+            156
+          ],
+          "guven": 0.63,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S25_1.png": {
+      "boyut": [
+        433,
+        222
+      ],
+      "soru_no": 25,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            143,
+            148,
+            178,
+            164
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S2_1.png": {
+      "boyut": [
+        243,
+        154
+      ],
+      "soru_no": 2,
+      "tespitler": [
+        {
+          "metin": "200 N",
+          "deger": 200,
+          "birim": "N",
+          "kutu": [
+            190,
+            18,
+            240,
+            36
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "459",
+          "deger": 459,
+          "birim": "",
+          "kutu": [
+            170,
+            70,
+            200,
+            88
+          ],
+          "guven": 0.8,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S8_1.png": {
+      "boyut": [
+        381,
+        135
+      ],
+      "soru_no": 8,
+      "tespitler": []
+    },
+    "S9_1.png": {
+      "boyut": [
+        381,
+        135
+      ],
+      "soru_no": 9,
+      "tespitler": []
+    }
+  },
+  "Dinamik 6. Ünite Sayısal Sorular": {
+    "S14_1.png": {
+      "boyut": [
+        183,
+        148
+      ],
+      "soru_no": 14,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            6,
+            16,
+            158,
+            66
+          ],
+          "guven": 0.36,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            149,
+            78,
+            182,
+            94
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            87,
+            104,
+            126,
+            130
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "9",
+          "deger": 9,
+          "birim": "",
+          "kutu": [
+            136,
+            110,
+            169,
+            135
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S19_1.png": {
+      "boyut": [
+        755,
+        336
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            213,
+            102,
+            257,
+            135
+          ],
+          "guven": 0.77,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            252,
+            106,
+            278,
+            128
+          ],
+          "guven": 0.36,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            69,
+            159,
+            114,
+            196
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            276,
+            290,
+            340,
+            312
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S1_1.png": {
+      "boyut": [
+        652,
+        588
+      ],
+      "soru_no": 1,
+      "tespitler": [
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            308,
+            230,
+            396,
+            264
+          ],
+          "guven": 0.88,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0 = 309",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            342,
+            439,
+            466,
+            475
+          ],
+          "guven": 0.48,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "=3m/s",
+          "deger": 3,
+          "birim": "m/s",
+          "kutu": [
+            505,
+            542,
+            636,
+            582
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        414,
+        226
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "1 ft A",
+          "deger": 1,
+          "birim": "ft",
+          "kutu": [
+            128,
+            42,
+            172,
+            62
+          ],
+          "guven": 0.42,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            331,
+            48,
+            404,
+            71
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            134,
+            104,
+            174,
+            122
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S22_1.png": {
+      "boyut": [
+        457,
+        230
+      ],
+      "soru_no": 22,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            178,
+            51,
+            207,
+            66
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            156,
+            70,
+            218,
+            90
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            126,
+            76,
+            140,
+            86
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0.5 m 45",
+          "deger": 0.5,
+          "birim": "m",
+          "kutu": [
+            46,
+            128,
+            114,
+            148
+          ],
+          "guven": 0.84,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "75 mm",
+          "deger": 75,
+          "birim": "mm",
+          "kutu": [
+            368,
+            146,
+            418,
+            164
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            224,
+            166,
+            292,
+            174
+          ],
+          "guven": 0.52,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            342,
+            166,
+            396,
+            174
+          ],
+          "guven": 0.5,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S26_1.png": {
+      "boyut": [
+        300,
+        366
+      ],
+      "soru_no": 26,
+      "tespitler": [
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            248,
+            10,
+            285,
+            31
+          ],
+          "guven": 0.64,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            168,
+            62,
+            196,
+            80
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "5 rad/s",
+          "deger": 5,
+          "birim": "rad/s",
+          "kutu": [
+            84,
+            78,
+            138,
+            98
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            64,
+            107,
+            76,
+            123
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            74,
+            103,
+            125,
+            130
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "25 ft",
+          "deger": 25,
+          "birim": "ft",
+          "kutu": [
+            212,
+            110,
+            252,
+            128
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "6",
+          "deger": 6,
+          "birim": "",
+          "kutu": [
+            16,
+            112,
+            47,
+            128
+          ],
+          "guven": 0.85,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            138,
+            150,
+            166,
+            168
+          ],
+          "guven": 0.95,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            154,
+            228,
+            180,
+            246
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S29_1.png": {
+      "boyut": [
+        729,
+        835
+      ],
+      "soru_no": 29,
+      "tespitler": [
+        {
+          "metin": "1.5 m/s",
+          "deger": 1.5,
+          "birim": "m/s",
+          "kutu": [
+            350,
+            235,
+            494,
+            285
+          ],
+          "guven": 0.76,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            350,
+            285,
+            413,
+            327
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            249,
+            292,
+            307,
+            337
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            413,
+            273,
+            516,
+            345
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            338,
+            520,
+            404,
+            562
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            497,
+            552,
+            561,
+            592
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "kutu": [
+            568,
+            567,
+            675,
+            611
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            103,
+            690,
+            208,
+            730
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S29_2.png": {
+      "boyut": [
+        336,
+        184
+      ],
+      "soru_no": 29,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            256,
+            61,
+            329,
+            90
+          ],
+          "guven": 0.8,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.6m",
+          "deger": 0.6,
+          "birim": "m",
+          "kutu": [
+            168,
+            108,
+            220,
+            128
+          ],
+          "guven": 0.68,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            136,
+            130,
+            178,
+            150
+          ],
+          "guven": 0.4,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            70,
+            150,
+            141,
+            184
+          ],
+          "guven": 0.36,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S30_1.png": {
+      "boyut": [
+        736,
+        670
+      ],
+      "soru_no": 30,
+      "tespitler": [
+        {
+          "metin": "4m",
+          "deger": 4,
+          "birim": "m",
+          "kutu": [
+            457,
+            229,
+            530,
+            278
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "15 m/s",
+          "deger": 15,
+          "birim": "m/s",
+          "kutu": [
+            146,
+            442,
+            314,
+            500
+          ],
+          "guven": 0.77,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S9_1.png": {
+      "boyut": [
+        230,
+        398
+      ],
+      "soru_no": 9,
+      "tespitler": [
+        {
+          "metin": "2m",
+          "deger": 2,
+          "birim": "m",
+          "kutu": [
+            40,
+            318,
+            70,
+            336
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    }
+  },
+  "Dinamik 7. Ünite Sayısal Sorular": {
+    "S11_1.png": {
+      "boyut": [
+        164,
+        166
+      ],
+      "soru_no": 11,
+      "tespitler": [
+        {
+          "metin": "25 Mm",
+          "deger": 25,
+          "birim": "mm",
+          "kutu": [
+            16,
+            55,
+            57,
+            69
+          ],
+          "guven": 0.62,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S12_1.png": {
+      "boyut": [
+        344,
+        301
+      ],
+      "soru_no": 12,
+      "tespitler": [
+        {
+          "metin": "2 ft",
+          "deger": 2,
+          "birim": "ft",
+          "kutu": [
+            82,
+            45,
+            105,
+            59
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2 ft",
+          "deger": 2,
+          "birim": "ft",
+          "kutu": [
+            17,
+            137,
+            40,
+            150
+          ],
+          "guven": 0.74,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "30",
+          "deger": 30,
+          "birim": "",
+          "kutu": [
+            287,
+            275,
+            305,
+            290
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            262,
+            278,
+            274,
+            288
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S13_1.png": {
+      "boyut": [
+        641,
+        244
+      ],
+      "soru_no": 13,
+      "tespitler": [
+        {
+          "metin": "2 m",
+          "deger": 2,
+          "birim": "m",
+          "kutu": [
+            280,
+            85,
+            326,
+            111
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S14_1.png": {
+      "boyut": [
+        641,
+        244
+      ],
+      "soru_no": 14,
+      "tespitler": [
+        {
+          "metin": "2 m",
+          "deger": 2,
+          "birim": "m",
+          "kutu": [
+            280,
+            85,
+            326,
+            111
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S15_1.png": {
+      "boyut": [
+        213,
+        180
+      ],
+      "soru_no": 15,
+      "tespitler": [
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            56,
+            36,
+            66,
+            46
+          ],
+          "guven": 0.76,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2 ft",
+          "deger": 2,
+          "birim": "ft",
+          "kutu": [
+            113,
+            150,
+            135,
+            164
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S16_1.png": {
+      "boyut": [
+        357,
+        135
+      ],
+      "soru_no": 16,
+      "tespitler": [
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            114,
+            47,
+            138,
+            62
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S17_1.png": {
+      "boyut": [
+        351,
+        132
+      ],
+      "soru_no": 17,
+      "tespitler": [
+        {
+          "metin": "M = 40 Ib-ft",
+          "deger": 40,
+          "birim": "ft",
+          "kutu": [
+            191,
+            2,
+            265,
+            16
+          ],
+          "guven": 0.81,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "125 ft",
+          "deger": 125,
+          "birim": "ft",
+          "kutu": [
+            226,
+            30,
+            266,
+            46
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "F=3 ft",
+          "deger": 3,
+          "birim": "ft",
+          "kutu": [
+            253,
+            97,
+            297,
+            111
+          ],
+          "guven": 0.37,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S1_1.png": {
+      "boyut": [
+        352,
+        595
+      ],
+      "soru_no": 1,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            114,
+            188,
+            140,
+            243
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2 m",
+          "deger": 2,
+          "birim": "m",
+          "kutu": [
+            32,
+            240,
+            96,
+            277
+          ],
+          "guven": 0.86,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            222,
+            360,
+            254,
+            390
+          ],
+          "guven": 0.93,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            22,
+            456,
+            104,
+            488
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S23_1.png": {
+      "boyut": [
+        295,
+        250
+      ],
+      "soru_no": 23,
+      "tespitler": [
+        {
+          "metin": "0.6 m",
+          "deger": 0.6,
+          "birim": "m",
+          "kutu": [
+            184,
+            30,
+            215,
+            43
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S24_1.png": {
+      "boyut": [
+        245,
+        162
+      ],
+      "soru_no": 24,
+      "tespitler": [
+        {
+          "metin": "308",
+          "deger": 308,
+          "birim": "",
+          "kutu": [
+            156,
+            58,
+            178,
+            72
+          ],
+          "guven": 0.69,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S25_1.png": {
+      "boyut": [
+        313,
+        335
+      ],
+      "soru_no": 25,
+      "tespitler": [
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            165,
+            24,
+            213,
+            38
+          ],
+          "guven": 0.78,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "5",
+          "deger": 5,
+          "birim": "",
+          "kutu": [
+            66,
+            44,
+            100,
+            59
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2 ft",
+          "deger": 2,
+          "birim": "ft",
+          "kutu": [
+            266,
+            133,
+            291,
+            148
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            121,
+            261,
+            144,
+            277
+          ],
+          "guven": 0.81,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "91 01 = W",
+          "deger": 91,
+          "birim": "W",
+          "kutu": [
+            69,
+            295,
+            132,
+            310
+          ],
+          "guven": 0.37,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S26_1.png": {
+      "boyut": [
+        198,
+        236
+      ],
+      "soru_no": 26,
+      "tespitler": [
+        {
+          "metin": "2 ft",
+          "deger": 2,
+          "birim": "ft",
+          "kutu": [
+            125,
+            118,
+            148,
+            132
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S27_1.png": {
+      "boyut": [
+        233,
+        334
+      ],
+      "soru_no": 27,
+      "tespitler": [
+        {
+          "metin": "2.75 ft",
+          "deger": 2.75,
+          "birim": "ft",
+          "kutu": [
+            172,
+            39,
+            212,
+            54
+          ],
+          "guven": 0.72,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            72,
+            60,
+            136,
+            78
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S28_1.png": {
+      "boyut": [
+        362,
+        247
+      ],
+      "soru_no": 28,
+      "tespitler": [
+        {
+          "metin": "10 mm",
+          "deger": 10,
+          "birim": "mm",
+          "kutu": [
+            233,
+            2,
+            275,
+            17
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "P =200N",
+          "deger": 200,
+          "birim": "N",
+          "kutu": [
+            291,
+            47,
+            355,
+            62
+          ],
+          "guven": 0.67,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S29_1.png": {
+      "boyut": [
+        278,
+        222
+      ],
+      "soru_no": 29,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            84,
+            65,
+            108,
+            80
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            135,
+            91,
+            147,
+            103
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            106,
+            104,
+            118,
+            114
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            94,
+            141,
+            127,
+            156
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S2_1.png": {
+      "boyut": [
+        493,
+        433
+      ],
+      "soru_no": 2,
+      "tespitler": [
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            104,
+            186,
+            122,
+            204
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S30_1.png": {
+      "boyut": [
+        254,
+        243
+      ],
+      "soru_no": 30,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            64,
+            91,
+            111,
+            113
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            161,
+            113,
+            186,
+            129
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            97,
+            138,
+            151,
+            160
+          ],
+          "guven": 0.94,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            145,
+            185,
+            170,
+            199
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S31_1.png": {
+      "boyut": [
+        308,
+        189
+      ],
+      "soru_no": 31,
+      "tespitler": [
+        {
+          "metin": "1 m",
+          "deger": 1,
+          "birim": "m",
+          "kutu": [
+            137,
+            53,
+            162,
+            68
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            248,
+            110,
+            283,
+            125
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "2",
+          "deger": 2,
+          "birim": "",
+          "kutu": [
+            212,
+            151,
+            233,
+            167
+          ],
+          "guven": 0.35,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S32_1.png": {
+      "boyut": [
+        188,
+        205
+      ],
+      "soru_no": 32,
+      "tespitler": [
+        {
+          "metin": "125 ft",
+          "deger": 125,
+          "birim": "ft",
+          "kutu": [
+            13,
+            94,
+            53,
+            110
+          ],
+          "guven": 0.75,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S3_1.png": {
+      "boyut": [
+        628,
+        178
+      ],
+      "soru_no": 3,
+      "tespitler": [
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            278,
+            136,
+            296,
+            158
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S4_1.png": {
+      "boyut": [
+        286,
+        588
+      ],
+      "soru_no": 4,
+      "tespitler": [
+        {
+          "metin": "450 mm",
+          "deger": 450,
+          "birim": "mm",
+          "kutu": [
+            157,
+            224,
+            252,
+            251
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "100 mm",
+          "deger": 100,
+          "birim": "mm",
+          "kutu": [
+            99,
+            502,
+            194,
+            530
+          ],
+          "guven": 0.78,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S5_1.png": {
+      "boyut": [
+        599,
+        403
+      ],
+      "soru_no": 5,
+      "tespitler": [
+        {
+          "metin": "60",
+          "deger": 60,
+          "birim": "",
+          "kutu": [
+            462,
+            82,
+            490,
+            104
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            475,
+            209,
+            533,
+            233
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            164,
+            230,
+            196,
+            250
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "kutu": [
+            305,
+            268,
+            363,
+            292
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            100,
+            365,
+            276,
+            396
+          ],
+          "guven": 0.81,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            315,
+            366,
+            374,
+            390
+          ],
+          "guven": 0.84,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S6_1.png": {
+      "boyut": [
+        564,
+        399
+      ],
+      "soru_no": 6,
+      "tespitler": [
+        {
+          "metin": "60",
+          "deger": 60,
+          "birim": "",
+          "kutu": [
+            458,
+            76,
+            484,
+            98
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            470,
+            203,
+            528,
+            227
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            160,
+            224,
+            190,
+            244
+          ],
+          "guven": 0.96,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "kutu": [
+            302,
+            264,
+            358,
+            286
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.3m-+0.2 mt",
+          "deger": 0.3,
+          "birim": "m",
+          "kutu": [
+            95,
+            360,
+            270,
+            387
+          ],
+          "guven": 0.82,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.4 m",
+          "deger": 0.4,
+          "birim": "m",
+          "kutu": [
+            310,
+            360,
+            370,
+            384
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S7_1.png": {
+      "boyut": [
+        278,
+        114
+      ],
+      "soru_no": 7,
+      "tespitler": [
+        {
+          "metin": "5 m",
+          "deger": 5,
+          "birim": "m",
+          "kutu": [
+            234,
+            54,
+            254,
+            64
+          ],
+          "guven": 0.9,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "6",
+          "deger": 6,
+          "birim": "",
+          "kutu": [
+            197,
+            56,
+            220,
+            67
+          ],
+          "guven": 0.7,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            150,
+            68,
+            162,
+            78
+          ],
+          "guven": 0.92,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "30 m",
+          "deger": 30,
+          "birim": "m",
+          "kutu": [
+            86,
+            80,
+            112,
+            90
+          ],
+          "guven": 0.77,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "75m",
+          "deger": 75,
+          "birim": "m",
+          "kutu": [
+            138,
+            90,
+            164,
+            100
+          ],
+          "guven": 0.37,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S8_1.png": {
+      "boyut": [
+        296,
+        303
+      ],
+      "soru_no": 8,
+      "tespitler": [
+        {
+          "metin": "0.7 m",
+          "deger": 0.7,
+          "birim": "m",
+          "kutu": [
+            158,
+            81,
+            193,
+            96
+          ],
+          "guven": 0.91,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            137,
+            198,
+            158,
+            211
+          ],
+          "guven": 0.51,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "3",
+          "deger": 3,
+          "birim": "",
+          "kutu": [
+            251,
+            228,
+            286,
+            242
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0.75 m",
+          "deger": 0.75,
+          "birim": "m",
+          "kutu": [
+            81,
+            279,
+            121,
+            294
+          ],
+          "guven": 0.9,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "8",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            173,
+            280,
+            208,
+            293
+          ],
+          "guven": 0.68,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S9_1.png": {
+      "boyut": [
+        636,
+        168
+      ],
+      "soru_no": 9,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            358,
+            14,
+            530,
+            58
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "Al 6",
+          "deger": 6,
+          "birim": "",
+          "kutu": [
+            228,
+            85,
+            319,
+            143
+          ],
+          "guven": 0.76,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "32 m",
+          "deger": 32,
+          "birim": "m",
+          "kutu": [
+            415,
+            126,
+            483,
+            153
+          ],
+          "guven": 0.65,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "126",
+          "deger": 126,
+          "birim": "",
+          "kutu": [
+            264,
+            150,
+            310,
+            168
+          ],
+          "guven": 0.2,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        }
+      ]
+    }
+  },
+  "Dinamik 8. Ünite Sayısal Sorular": {
+    "S19_1.png": {
+      "boyut": [
+        409,
+        363
+      ],
+      "soru_no": 19,
+      "tespitler": [
+        {
+          "metin": "b = 0.3m",
+          "deger": 0.3,
+          "birim": "m",
+          "kutu": [
+            236,
+            284,
+            326,
+            306
+          ],
+          "guven": 0.78,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "kutu": [
+            70,
+            296,
+            124,
+            318
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S20_1.png": {
+      "boyut": [
+        409,
+        363
+      ],
+      "soru_no": 20,
+      "tespitler": [
+        {
+          "metin": "b = 0.3m",
+          "deger": 0.3,
+          "birim": "m",
+          "kutu": [
+            236,
+            284,
+            326,
+            306
+          ],
+          "guven": 0.78,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0.2 m",
+          "deger": 0.2,
+          "birim": "m",
+          "kutu": [
+            70,
+            296,
+            124,
+            318
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S21_1.png": {
+      "boyut": [
+        622,
+        555
+      ],
+      "soru_no": 21,
+      "tespitler": [
+        {
+          "metin": "k = 200 N/m",
+          "deger": 200,
+          "birim": "m",
+          "kutu": [
+            396,
+            10,
+            588,
+            46
+          ],
+          "guven": 0.53,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            434,
+            47,
+            558,
+            95
+          ],
+          "guven": 0.3,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            160,
+            152,
+            182,
+            182
+          ],
+          "guven": 0.68,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "5m",
+          "deger": 5,
+          "birim": "m",
+          "kutu": [
+            184,
+            152,
+            232,
+            184
+          ],
+          "guven": 0.72,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            266,
+            186,
+            293,
+            215
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "15 kg",
+          "deger": 15,
+          "birim": "kg",
+          "kutu": [
+            221,
+            279,
+            303,
+            316
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "10 kg",
+          "deger": 10,
+          "birim": "kg",
+          "kutu": [
+            104,
+            472,
+            185,
+            510
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S22_1.png": {
+      "boyut": [
+        622,
+        555
+      ],
+      "soru_no": 22,
+      "tespitler": [
+        {
+          "metin": "k = 200 N/m",
+          "deger": 200,
+          "birim": "m",
+          "kutu": [
+            396,
+            10,
+            588,
+            46
+          ],
+          "guven": 0.53,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            434,
+            47,
+            558,
+            95
+          ],
+          "guven": 0.3,
+          "dusuk_guven": true,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            160,
+            152,
+            182,
+            182
+          ],
+          "guven": 0.68,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "5m",
+          "deger": 5,
+          "birim": "m",
+          "kutu": [
+            184,
+            152,
+            232,
+            184
+          ],
+          "guven": 0.72,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            266,
+            186,
+            293,
+            215
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "15 kg",
+          "deger": 15,
+          "birim": "kg",
+          "kutu": [
+            221,
+            279,
+            303,
+            316
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "10 kg",
+          "deger": 10,
+          "birim": "kg",
+          "kutu": [
+            104,
+            472,
+            185,
+            510
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S23_1.png": {
+      "boyut": [
+        479,
+        165
+      ],
+      "soru_no": 23,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            98,
+            32,
+            122,
+            54
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "14",
+          "deger": 14,
+          "birim": "",
+          "kutu": [
+            362,
+            35,
+            398,
+            59
+          ],
+          "guven": 0.69,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            142,
+            44,
+            164,
+            66
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S24_1.png": {
+      "boyut": [
+        479,
+        165
+      ],
+      "soru_no": 24,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            98,
+            32,
+            122,
+            54
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "14",
+          "deger": 14,
+          "birim": "",
+          "kutu": [
+            362,
+            35,
+            398,
+            59
+          ],
+          "guven": 0.69,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "0",
+          "deger": 0,
+          "birim": "",
+          "kutu": [
+            142,
+            44,
+            164,
+            66
+          ],
+          "guven": 0.98,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S25_1.png": {
+      "boyut": [
+        181,
+        377
+      ],
+      "soru_no": 25,
+      "tespitler": []
+    },
+    "S26_1.png": {
+      "boyut": [
+        187,
+        353
+      ],
+      "soru_no": 26,
+      "tespitler": [
+        {
+          "metin": "4",
+          "deger": 4,
+          "birim": "",
+          "kutu": [
+            88,
+            77,
+            140,
+            150
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        },
+        {
+          "metin": "7",
+          "deger": 7,
+          "birim": "",
+          "kutu": [
+            142,
+            313,
+            158,
+            334
+          ],
+          "guven": 0.87,
+          "dusuk_guven": false,
+          "metinde_de_var": false
+        }
+      ]
+    },
+    "S27_1.png": {
+      "boyut": [
+        306,
+        546
+      ],
+      "soru_no": 27,
+      "tespitler": [
+        {
+          "metin": "F= -7sin 2t",
+          "deger": -7,
+          "birim": "",
+          "kutu": [
+            139,
+            499,
+            300,
+            526
+          ],
+          "guven": 0.97,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S28_1.png": {
+      "boyut": [
+        308,
+        474
+      ],
+      "soru_no": 28,
+      "tespitler": [
+        {
+          "metin": "-7 sin 2t",
+          "deger": -7,
+          "birim": "",
+          "kutu": [
+            206,
+            432,
+            290,
+            452
+          ],
+          "guven": 0.86,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S29_1.png": {
+      "boyut": [
+        464,
+        175
+      ],
+      "soru_no": 29,
+      "tespitler": [
+        {
+          "metin": "8 cos 3t",
+          "deger": 8,
+          "birim": "",
+          "kutu": [
+            392,
+            100,
+            464,
+            122
+          ],
+          "guven": 0.88,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "k = 10 Nlm",
+          "deger": 10,
+          "birim": "",
+          "kutu": [
+            32,
+            148,
+            140,
+            168
+          ],
+          "guven": 0.41,
+          "dusuk_guven": true,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S30_1.png": {
+      "boyut": [
+        247,
+        248
+      ],
+      "soru_no": 30,
+      "tespitler": []
+    },
+    "S31_1.png": {
+      "boyut": [
+        213,
+        464
+      ],
+      "soru_no": 31,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            110,
+            98,
+            196,
+            120
+          ],
+          "guven": 0.83,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "31",
+          "deger": 31,
+          "birim": "",
+          "kutu": [
+            144,
+            219,
+            181,
+            249
+          ],
+          "guven": 0.99,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        },
+        {
+          "metin": "35",
+          "deger": 35,
+          "birim": "",
+          "kutu": [
+            122,
+            222,
+            148,
+            242
+          ],
+          "guven": 1.0,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    },
+    "S32_1.png": {
+      "boyut": [
+        309,
+        216
+      ],
+      "soru_no": 32,
+      "tespitler": [
+        {
+          "metin": "1",
+          "deger": 1,
+          "birim": "",
+          "kutu": [
+            130,
+            192,
+            202,
+            212
+          ],
+          "guven": 0.69,
+          "dusuk_guven": false,
+          "metinde_de_var": true
+        }
+      ]
+    }
+  }
+}
